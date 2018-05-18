@@ -152,3 +152,8 @@ If you have a documented disability that requires academic accommodations, pleas
 | 2:<br>Aug. 28, <br>Aug. 30 | 1. Lab introduction<br>2. M1 introduction | 1. the aesthetics of cartography<br>2. overview of thematic mapping and data types <br>3. *Activity:* Collaborative mapping <br><br>*L2* |
 | 3:<br>Sept. 4, <br>Sept. 6 | MONDAY discussion sections <br>will not meet due to Labor Day.<br><br>**Complete M1**<br>Due end of Friday | Read Harley 1987.<br><br>1. mapping the everyday<br>2. critical mapping practices <br>3. *Activity:* Map as biography <br><br>*L3* |
 | 4:<br>Sept. 11, <br>Sept. 13 | **Complete M2**<br>Due end of Friday | 1. the relationship between cartography and GIS<br>2. map audience and format<br>3. Viewing the map and map experiences<br>4. *Activity:* Art Museum (on your own) <br><br>*L4* |
+| 5:<br>Sept. 18, <br>Sept. 20 | **Complete M3**<br>Due end of Friday | 1. acquiring data and transforming data<br>2. mapmaking tools<br>3. mashups and spatial media<br>4. *Activity:* US Census Data <br><br>*L5* |
+| 6:<br>Sept. 25, <br>Sept. 27 | M4 introduction | 1. the neutrality of maps<br>2. map projection and design <br><br>*L6* |
+| 7:<br>Oct. 2, <br>Oct. 4 | Work on M4 | 1. generalization, classification, and symbolization<br>2. the selective interests of the map(maker)<br>3. *Activity:* Truthiness in mapmaking <br><br>*L7* |
+| 8:<br>Oct. 9, <br>Oct. 11 | **M4 Due**<br>end of Friday | 1. the geoweb<br>2. *Activity:* Mapping careers <br><br>*L8* |
+| 9:<br>Oct. 16, <br>Oct. 18 | *Activity:* Map Library | Tuesday: Review Weeks 1-8 <br><br>Thursday: <br>**EXAM 1** <br><br>*L4* |
