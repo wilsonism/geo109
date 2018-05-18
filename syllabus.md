@@ -156,4 +156,11 @@ If you have a documented disability that requires academic accommodations, pleas
 | 6:<br>Sept. 25, <br>Sept. 27 | M4 introduction | 1. the neutrality of maps<br>2. map projection and design <br><br>*L6* |
 | 7:<br>Oct. 2, <br>Oct. 4 | Work on M4 | 1. generalization, classification, and symbolization<br>2. the selective interests of the map(maker)<br>3. *Activity:* Truthiness in mapmaking <br><br>*L7* |
 | 8:<br>Oct. 9, <br>Oct. 11 | **M4 Due**<br>end of Friday | 1. the geoweb<br>2. *Activity:* Mapping careers <br><br>*L8* |
-| 9:<br>Oct. 16, <br>Oct. 18 | *Activity:* Map Library | Tuesday: Review Weeks 1-8 <br><br>Thursday: <br>**EXAM 1** <br><br>*L4* |
+| 9:<br>Oct. 16, <br>Oct. 18 | *Activity:* Map Library | Tuesday: Review Weeks 1-8 <br><br>Thursday: <br>**EXAM 1** |
+| 10:<br>Oct. 23, <br>Oct. 25 | Final Project Preparations | 1. after critical GIS and cartography<br>2. new mapping industries<br>3. discuss final project proposal<br>4. *Activity:* Mapping crowds <br><br>*L9* |
+| 11:<br>Oct. 30, <br>Nov. 1 | **FP Proposal Due**<br>end of Friday | 1. mapping as art and creative force<br>2. non-representational mapping<br>3. maps as objects of consumption<br>4. *Activity:* Psychogeographic maps <br><br>*L10* |
+| 12:<br>Nov. 6, <br>Nov. 8 | Collect Data for Final Project | LECTURE WILL NOT MEET: **VOTE** |
+| 13:<br>Nov. 13, <br>Nov. 15 | Work on Final Project | 1. participatory mapping<br>2. VGI and neogeo<br>3. qualitative GIS <br><br>*L11* |
+| 14:<br>Nov. 20, <br>Nov. 22 | Final Project Review | Tuesday: Final Project Review <br><br>Thursday: THANKSGIVING BREAK |
+| 15:<br>Nov. 27, <br>Nov. 29 | **FP Report DUE**<br>end of Friday | Tuesday: <br>1. web programming and scripting for maps<br>2. *Activity:* Hello World <br><br>*L12* <br><br>Thursday: LECTURE WILL NOT MEET: Reading Period |
+| 16:<br>Dec. 4, <br>Dec. 6 | **FP Presentations DUE**<br>end of Friday | Tuesday: LECTURE WILL NOT MEET: Reading Period <br><br>Thursday: Review Weeks 10-15 |
