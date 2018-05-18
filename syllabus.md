@@ -146,3 +146,7 @@ If you have a documented disability that requires academic accommodations, pleas
 
 *Subject to change.*
 
+| Week     | Discussion Sections                             | Lectures      |
+| :------- | :----:                                          | :-----        |
+| 1:<br>Aug. 23 | **Discussion Sections <br>Will Not Meet This Week** | Tuesday: First class meeting is Thursday. <br>Thursday: Course introduction, maps and mappings, overview of M1-M4 <br>L1 |
+| 2:<br>Aug. 28, <br>Aug. 30 | 1. Lab introduction<br>2. M1 introduction | The aesthetics of cartography, overview of thematic mapping and data types <br>*Activity:* Collaborative mapping <br>L2 |
