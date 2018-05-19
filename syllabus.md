@@ -164,3 +164,17 @@ If you have a documented disability that requires academic accommodations, pleas
 | 14:<br>Nov. 20, <br>Nov. 22 | Final Project Review | Tuesday: Final Project Review <br><br>Thursday: THANKSGIVING BREAK |
 | 15:<br>Nov. 27, <br>Nov. 29 | **FP Report DUE**<br>end of Friday | Tuesday: <br>1. web programming and scripting for maps<br>2. *Activity:* Hello World <br><br>*L12* <br><br>Thursday: LECTURE WILL NOT MEET: Reading Period |
 | 16:<br>Dec. 4, <br>Dec. 6 | **FP Presentations DUE**<br>end of Friday | Tuesday: LECTURE WILL NOT MEET: Reading Period <br><br>Thursday: Review Weeks 10-15 |
+
+**Exam 2: XXX, December XXX, XXXpm
+
+## IX. Resource References
+
+Bertin, Jacques. 1983. *Semiology of Graphics: Diagrams, Networks, Maps* (WJ Berg, Trans.). Madison, WI: The University of Wisconsin Press, Ltd.
+
+Imhof, Eduard. 2007. *Cartographic relief presentation.* ESRI, Inc.
+
+Krygier, John, and Denis Wood. 2016. *Making maps: a visual guide to map design for GIS.* 3rd ed. New York: Guilford Press.
+
+Robinson, Arthur Howard. 1952. *The look of maps: an examination of cartographic design.* University of Wisconsin Press.
+
+Tufte, Edward R. 2001. *The Visual Display of Quantitative Information.* Graphics Press, 2nd edition.
