@@ -9,7 +9,7 @@ In this exercise, the class will produce a Google Map of hundreds of geotagged p
 
 ## Grading.
 
-The assignment is worth 25 points, based on a Word document you will upload to Canvas containing:
+The assignment is worth 25 points, based on a Word document (or PDF) you will upload to Canvas containing:
 1. Three screenshots demonstrating that you successfully geotagged three images to the collaborative map (15 points). Paste these three images into your Word document.
 2. A 250-word essay (10 points) responding to the following prompt: **How does the collaboratively-produced map reflect the specific geographies of our classmates?** Consider where geotagged images were posted and where they are absent (as well as what celebrities were selected and written about).
 

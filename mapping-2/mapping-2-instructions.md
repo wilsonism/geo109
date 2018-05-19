@@ -3,19 +3,19 @@
 University of Kentucky
 <br>Matthew W. Wilson
 
-In this exercise, the class will produce a Google Map of hundreds of geotagged photos documenting celebrity sightings in Lexington. Your job is to 1) photograph a chosen celebrity at three locations in Lexington, and 2) add those photos, along with some descriptive text, to a class-wide collaborative map using Google MyMaps.
+In this exercise, you will bring in, and edit the design of, a map of the commonwealth of Kentucky to become familiar with the basic functions of Esri’s ArcGIS Pro, an industry-standard geographic information system (GIS). After completing this assignment, you will have 1) the ability to navigate ArcGIS Pro and 2) a basic understanding of the file and data structures used by ArcGIS Pro.
 
-**Note:** There are 10 steps in this assignment.
+**Note:** There are xx steps in this assignment.
 
 ## Grading.
 
-The assignment is worth 25 points, based on a Word document you will upload to Canvas containing:
-1. Three screenshots demonstrating that you successfully geotagged three images to the collaborative map (15 points). Paste these three images into your Word document.
-2. A 250-word essay (10 points) responding to the following prompt: **How does the collaboratively-produced map reflect the specific geographies of our classmates?** Consider where geotagged images were posted and where they are absent (as well as what celebrities were selected and written about).
+The assignment is worth 30 points, based on a Word document (or PDF) you will upload to Canvas containing:
+1. Three screenshots: the unstyled Kentucky layer, the 'ugly map', and your much-improved 'attractive' map. Paste these three images into your Word document (15 points).
+2. Responses to the three questions in the assignment (15 points).
 
 Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment. **Note:** Late submissions will be penalized, as discussed in the syllabus.
 
-**Note:** This assignment requires a digital camera or a camera phone. You are encouraged to borrow from friends and classmates, but if access to this technology is difficult, please inform your TA.
+**Note:** This assignment requires access to ArcGIS Pro. This desktop software is available in the teaching lab (CB313) and may be available in other computer labs on campus. You will also need to be able to save files locally.
 
 ## Instructions.
 
