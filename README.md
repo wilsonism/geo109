@@ -1,4 +1,4 @@
-# GEO109: Digital Mapping
+# Geography 109: <br>Digital Mapping
 
 University of Kentucky
 
