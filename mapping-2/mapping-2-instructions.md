@@ -53,8 +53,8 @@ Need to update the instructions below for ArcGIS Pro.
 15. Now go back into the “Symbology” tab and fix it. Pick a fill and outline color of your choice, adjusting line weight and anything else you would like. Change the background color (your choice; white is fine). Capture a screenshot of your attractive map.
 
 16. In a Word document, include your three screenshots, and answer these three questions in about a paragraph each. Reference readings and material covered in lecture and recitation:
-* Explain choices for your maps; what made one bad and the other good? Think about who your audience might be, and issues of readability as well as aesthetics. There is no wrong or right map, as long as you can think through and defend your choices. (Think about Krygier & Wood, Ch. 2: What’s Your Map For?)
-* What is a Shapefile? Who was it developed by, and what does it do? You don’t have to be too technical, just write your observations from this lab. Feel free to search online to help clarify things, though you should be careful to cite your sources.
-* Write a short review of ArcMap. Now that you’ve made a map using Google My Maps, you can compare issues of cost, accessibility, ease, interface, design, and to some extent, what the different mapping programs allow you to do. You might think about expert/amateur mapping (See Crampton, Ch. 1 and 2).
+* Q1. Explain choices for your maps; what made one bad and the other good? Think about who your audience might be, and issues of readability as well as aesthetics. There is no wrong or right map, as long as you can think through and defend your choices. (Think about Krygier & Wood, Ch. 2: What’s Your Map For?)
+* Q2. What is a Shapefile? Who was it developed by, and what does it do? You don’t have to be too technical, just write your observations from this lab. Feel free to search online to help clarify things, though you should be careful to cite your sources.
+* Q3. Write a short review of ArcMap. Now that you’ve made a map using Google My Maps, you can compare issues of cost, accessibility, ease, interface, design, and to some extent, what the different mapping programs allow you to do. You might think about expert/amateur mapping (See Crampton, Ch. 1 and 2).
 
 17. Upload a Word document or PDF to Canvas. This document must include your three screenshots and your response to the prompt.
