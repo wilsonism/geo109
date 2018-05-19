@@ -5,13 +5,15 @@ University of Kentucky
 
 In this exercise, the class will produce a Google Map of hundreds of geotagged photos documenting celebrity sightings in Lexington. Your job is to 1) photograph a chosen celebrity at three locations in Lexington, and 2) add those photos, along with some descriptive text, to a class-wide collaborative map using Google MyMaps.
 
+**Note:** There are 10 steps in this assignment.
+
 ## Grading.
 
 The assignment is worth 25 points, based on a Word document you will upload to Canvas containing:
 1. Three screenshots demonstrating that you successfully geotagged three images to the collaborative map (15 points). Paste these three images into your Word document.
 2. A 250-word essay (10 points) responding to the following prompt: **How does the collaboratively-produced map reflect the specific geographies of our classmates?** Consider where geotagged images were posted and where they are absent (as well as what celebrities were selected and written about).
 
-Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment.
+Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment. **Note:** Late submissions will be penalized, as discussed in the syllabus.
 
 **Note:** This assignment requires a digital camera or a camera phone. Students are encouraged to borrow from friends and classmates, but if access to this technology is difficult, please inform your TA.
 
@@ -32,3 +34,8 @@ by right-clicking the file, and selecting ‘rename.’ Use the following naming
 
 7. Use the camera icon to upload your first photo and add a couple sentences to describe what your celebrity was doing in this location.<br> ![Google MyMaps Add Photo and Narrative](assets/images/googlemymaps-add-image.png)
 
+8. Congratulations! You’ve geotagged your first image. Take a screenshot of this geotagged image using print screen (PtrScr key Windows, or Command-Shift-3 in Mac). Now open the Word doc you will be turning in, and paste/upload your screenshot. **Note:** You will need all three screenshots of your geotagged images to receive full credit.
+
+9. In your Word doc, below your three screenshots of your three geotagged images, please write a 250-word essay using the  prompt, [above](mapping-1-instructions.md#grading)
+
+10. Upload this Word doc to Canvas before the due date.
