@@ -1,4 +1,4 @@
-# Geography 109:<br>Digital Mapping<br>Mapping 1: Celebrity Mapping
+# Geography 109:<br>Digital Mapping<br>Mapping 2: Introduction to ArcGIS Pro
 
 University of Kentucky
 <br>Matthew W. Wilson
