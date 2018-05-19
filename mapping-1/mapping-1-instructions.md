@@ -28,3 +28,7 @@ by right-clicking the file, and selecting ‘rename.’ Use the following naming
 
 5. Navigate to the Google MyMaps for our class, [here](https://drive.google.com/open?id=1yE3DQCQvpT6YlbqdeQX6xj0jo7tmA_Wu&usp=sharing). **Note:** In order to edit this map you must be logged into your non-UKY Google account.
 
+6. Add a new marker at the location of your first photo using the marker tool.<br>![Google MyMaps Marker](assets/images/googlemymaps-add-marker.png)
+
+7. Use the camera icon to upload your first photo and add a couple sentences to describe what your celebrity was doing in this location.<br> ![Google MyMaps Add Photo and Narrative](assets/images/googlemymaps-add-image.png)
+
