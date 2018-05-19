@@ -2,3 +2,5 @@
 
 University of Kentucky
 <br>Matthew W. Wilson
+
+[syllabus](syllabus.md)
