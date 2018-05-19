@@ -1,8 +1,7 @@
 # Geography 109: <br>Digital Mapping
 
 University of Kentucky
-
-Matthew W. Wilson
+<br>Matthew W. Wilson
 
 ## Mapping 1: Celebrity Mapping
 
