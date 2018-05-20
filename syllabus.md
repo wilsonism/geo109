@@ -129,7 +129,7 @@ Students may discuss assignments among themselves or with an instructor or tutor
 
 **Please note:** Any assignment you turn in may be submitted to an electronic database to check for plagiarism.
 
-###Be respectful.
+### Be respectful.
 
 Students should at all times be respectful of fellow students, the professor or teaching assistant(s), and the University of Kentucky. Some basic reminders:
 * Silence all mobile devices.
