@@ -49,9 +49,9 @@ Students will be assessed in this course using a variety of methods. Attendance 
 * Exam 1 (75 points)
 * Exam 2 (55 points)
 * Discussions and Exercises (60 points)
-* [Mapping 1](mapping-1/README.md) (25 points)
-* [Mapping 2](mapping-2/README.md) (30 points)
-* Mapping 3 (30 points)
+* [Mapping 1](mapping-1) (25 points)
+* [Mapping 2](mapping-2) (30 points)
+* [Mapping 3](mapping-3) (30 points)
 * Mapping 4 (50 points)
 * Final project (75 points)
 
