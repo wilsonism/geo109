@@ -25,3 +25,4 @@ Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date o
 
 3. We will now spend some time exploring the interface. Click the "Show data by" button to open a drop-down menu where you choose between several data geometries. Turn off the automatic selection option and select "Census Tract".<br>![Show Data By](assets/images/socialexp_showdataby.png)
 
+4. Click the color scale in the top right hand corner and select "Colors" at the bottom of the drop-down menu. Note the difference between "Diverging" and "Sequential" color modes here. How might each affect the story told by your map?<br>![Color Scale](assets/images/socialexp_colorscale.png)
