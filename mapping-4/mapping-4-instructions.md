@@ -1,11 +1,11 @@
-# Geography 109:<br>Digital Mapping<br>Mapping 3: Official Data Stories
+# Geography 109:<br>Digital Mapping<br>Mapping 4: Introduction to QGIS
 
 University of Kentucky
 <br>Matthew W. Wilson
 
 In this exercise, you will produce a series of choropleth maps using Social Explorer, an online mapping application that produces simple, attractive maps of US Decennial Census and American Community Survey data. This will require you to fix a critical eye on your own cartographic decision-making, recognizing the active role that apparently aesthetic decisions play in shaping the stories maps tell. You will also develop a basic understanding of data classification methods.
 
-**Note:** There are 11 steps in this assignment's instructions, followed by a [section](mapping-3-instructions.md#deliverables) on what to submit for the deliverable.
+**Note:** There are xx steps in this assignment.
 
 ## Grading.
 
