@@ -52,7 +52,7 @@ Students will be assessed in this course using a variety of methods. Attendance 
 * [Mapping 1](mapping-1) (25 points)
 * [Mapping 2](mapping-2) (30 points)
 * [Mapping 3](mapping-3) (30 points)
-* Mapping 4 (50 points)
+* [Mapping 4](mapping-4) (50 points)
 * Final project (75 points)
 
 Final grades will be based on a standard scale, i.e., A=90-100%; B=80-89%; C=70-79%; D=60-69%; E=less than 60%. Grades for all assignments will be available via the University of Kentucky Canvas system (http://uk.instructure.com).
