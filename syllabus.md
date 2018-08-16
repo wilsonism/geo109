@@ -8,7 +8,7 @@ Lectures: TTH 9:30-10:20, Classroom Building 118
 *Office Hours:* TBD<br>
 
 *Teaching Assistants:*
-* **asdf**, asdf@uky.edu, *Lead TA*: sec x, M 8:00-8:50, CB313 (can provide additional lab support by appointment)
+* **Joe Blankenship**, jrbl235@uky.edu, *Lead TA*: sec 3, F 9:00-9:50, CB313 (can provide additional lab support by appointment)
 * **asdf**, asdf@uky.edu: sec x, M 8:00-8:50, CB313; sec x, M 8:00-8:50, CB313; sec x, M 8:00-8:50, CB313
 * **asdf**, asdf@uky.edu: sec x, M 8:00-8:50, CB313; sec x, M 8:00-8:50, CB313; sec x, M 8:00-8:50, CB313
 * **asdf**, asdf@uky.edu: sec x, M 8:00-8:50, CB313; sec x, M 8:00-8:50, CB313; sec x, M 8:00-8:50, CB313
