@@ -1,5 +1,5 @@
 # Geography 109:<br>Digital Mapping<br>Fall 2018<br>*#digimap*
-Lectures: TTH 9:30-10:20, Classroom Building 118
+Lectures: TTH 9:30-10:20, Classroom Building 106
 
 **Dr. Matthew W. Wilson**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
