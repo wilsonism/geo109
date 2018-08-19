@@ -39,7 +39,7 @@ This course will be composed of lecture and discussion sessions. Lecture session
 
 ## V. Required Texts
 
-While there are no required books for this class, there will be assigned readings which will be made available on the course management website.
+While there are no required books for this class, there will be assigned readings which will be made available on the course management website. You are attending a research 1 university, taking classes with people who do original research. As such, you may have the opportunity to read journal articles and book chapters published by your professors. Professors are not paid royalties for these publications, but they are how information is disseminated for the academic community.
 
 ## VI. Assignments, Activities, and Grading
 
@@ -77,7 +77,7 @@ The final project is a collaborative project focused on the creative process of 
 
 ### Prepare for this course.
 
-Review the course syllabus carefully, paying special attention to due dates and assignment instructions. In addition to a final project, there are four major laboratory deliverables in this course and each one builds off the previous, so attendance and participation are crucial. If you have questions about course expectations as overviewed by this syllabus, please contact the instructor as soon as possible. You are attending a research 1 university, taking classes with people who do original research. As such, you may have the opportunity to read journal articles and book chapters published by your professors. Professors are not paid royalties for these publications, but they are how information is disseminated for the academic community.
+Review the course syllabus carefully, paying special attention to due dates and assignment instructions. In addition to a final project, there are four major laboratory deliverables in this course and each one builds off the previous, so attendance and participation are crucial. If you have questions about course expectations as overviewed by this syllabus, please contact the instructor as soon as possible.
 
 ### Attend class.
 
