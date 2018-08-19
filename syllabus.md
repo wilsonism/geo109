@@ -9,9 +9,9 @@ Lectures: TTH 9:30-10:20, Classroom Building 106
 
 *Teaching Assistants:*
 * **Joe Blankenship**, jrbl235@uky.edu, *Lead TA*: sec 3, F 9:00-9:50, CB313 (can provide additional lab support by appointment)
-* **asdf**, asdf@uky.edu: sec x, M 8:00-8:50, CB313; sec x, M 8:00-8:50, CB313; sec x, M 8:00-8:50, CB313
-* **asdf**, asdf@uky.edu: sec x, M 8:00-8:50, CB313; sec x, M 8:00-8:50, CB313; sec x, M 8:00-8:50, CB313
-* **asdf**, asdf@uky.edu: sec x, M 8:00-8:50, CB313; sec x, M 8:00-8:50, CB313; sec x, M 8:00-8:50, CB313
+* **Lindsey Funke**, lindsey.funke@uky.edu: sec 4, F 10:00-10:50, CB313; sec 6, M 9:00-9:50, CB313; sec 7, M 10:00-10:50, CB313
+* **Andrew Newton**, andrew.newton@uky.edu: sec 8, M 1:00-1:50, CB313; sec 9, M 2:00-2:50, CB313; sec 10, T 12:30-1:20, CB313
+* **John Swab**, john.j.swab@uky.edu: sec 1, Th 11:00-11:50, CB313; sec 2, Th 12:30-1:20, CB313; sec 5, F 1:00-1:50, CB313
 
 ## I. Course Description
 
@@ -77,7 +77,7 @@ The final project is a collaborative project focused on the creative process of 
 
 ### Prepare for this course.
 
-Review the course syllabus carefully, paying special attention to due dates and assignment instructions. In addition to a final project, there are four major laboratory deliverables in this course and each one builds off the previous, so attendance and participation are crucial. If you have questions about course expectations as overviewed by this syllabus, please contact the instructor as soon as possible.
+Review the course syllabus carefully, paying special attention to due dates and assignment instructions. In addition to a final project, there are four major laboratory deliverables in this course and each one builds off the previous, so attendance and participation are crucial. If you have questions about course expectations as overviewed by this syllabus, please contact the instructor as soon as possible. You are attending a research 1 university, taking classes with people who do original research. As such, you may have the opportunity to read journal articles and book chapters published by your professors. Professors are not paid royalties for these publications, but they are how information is disseminated for the academic community.
 
 ### Attend class.
 
