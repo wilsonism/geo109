@@ -165,7 +165,7 @@ If you have a documented disability that requires academic accommodations, pleas
 | 15:<br>Nov. 27, <br>Nov. 29 | **FP Report DUE**<br>end of Friday | Tuesday: <br>1. web programming and scripting for maps<br>2. *Activity:* Hello World <br><br>*L12* <br><br>Thursday: LECTURE WILL NOT MEET: Reading Period |
 | 16:<br>Dec. 4, <br>Dec. 6 | **FP Presentations DUE**<br>end of Friday | Tuesday: LECTURE WILL NOT MEET: Reading Period <br><br>Thursday: Review Weeks 10-15 |
 
-**Exam 2: Tuesday, December 11th, 10:30am in CB106
+**Exam 2: Tuesday, December 11th, 10:30am in CB106**
 
 ## IX. Resource References
 
