@@ -30,37 +30,37 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 
 1. Now that you’ve successfully installed QGIS, it’s time to download some geospatial data. Navigate to http://census.gov/cgi-bin/geo/shapefiles2010/main. Under “Select a layertype,” choose “Counties (and equivalent)” and click submit.
 
-![Image28](images/Image28)
+![Image11](images/Image11.jpeg)
 
 2. Under the 2010 dropdown menu (not the 2000 menu below), select Kentucky and click Download.
 
-![Image28](images/Image28)
+![Image21](images/Image21.jpeg)
 
 3. The shapefile you just downloaded is in a compressed folder – a ZIP file – that you must _extract_. Use the technique you learned in M2, being sure to extract _all_ the files, and save themto somewhere easy to find again, like a folder on your desktop made for this purpose.(Remember that the shapefile is actually 5 different files. All of these files are necessary components of the shapefile’s data structure. They must all stay in the same folder or the filewill not work correctly.)
 
-![Image28](images/Image28)
+![Image31](images/Image31.jpeg)
 
-![Image29](images/Image29)
+![Image32](images/Image32.jpeg)
 
 4. Open QGIS. The interface should look familiar, after learning ArcGIS. The two platforms are fairly similar and ‘think’ in the same way (mostly).
 
 5. Click “Add Vector Layer” on the left side of the screen. In the Add Vector Layer dialogue box, click the “Browse” button to locate your shapefile.
 
-![Image36](images/Image36)
+![Image41](images/Image51.jpeg)
 
-![Image33](images/Image33)
+![Image42](images/Image52.jpeg)
 
 6. Locate the folder that contains your shapefile and click the file ending in “.shp.” **Note: this is potentially confusing as there are other files that also have the .shp extension (e.g.,shp.xml)** and sometimes the extension will be hidden. Take a close look; you may have toexperiment a bit before you find the right file. Click “Open”, and “Open” again in the “Add vector layer” dialogue box.
 
-![Image45](images/Image45)
+![Image61](images/Image61.jpeg)
 
 Congratulations; you’ve just made a map in QGIS! Your shapefile should now be displayedin the map window and in the QGIS list of active layers.
 
-![Image28](images/Image28)
+![Image62](images/Image62.jpeg)
 
 7. Open the attribute table of the layer: you will see this option when you right-click the layer. You can use the information in here to answer Question 2.
 
-![Image57](images/Image57)
+![Image71](images/Image71.jpeg)
 
 ### Part 1 Questions
 
