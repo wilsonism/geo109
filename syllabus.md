@@ -102,6 +102,10 @@ You are responsible for checking your UKY email account; the class listserv is w
 
 Students are strongly encouraged to exchange contact information with classmates, in order to retrieve notes and information that you may have missed.
 
+### Ask before recording.
+
+Video and audio recordings are not permitted during our class meetings unless the student has received prior permission from the instructors. If permission is granted, recording of other students is prohibited. Any distribution of recordings is also probhibited. Students with specific recording accommodations approved by the Disability Resource Center should present their official documentation to the instructor. All content for this course, including handouts, assignments, and lectures are the intellectual property of the instructors and cannot be reproduced, sold, or used for any purpose other than educational work in this class without prior permission from the instructor.
+
 ### Get help.
 
 This course is based on a progression of lectures and mapping assignments. If you are having difficulty with any course material, please contact the instructor. There are also other resources which you should find useful:
