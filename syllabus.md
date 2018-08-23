@@ -5,7 +5,7 @@ Lectures: TTH 9:30-10:20, Classroom Building 106
 *Email:* matthew.w.wilson@uky.edu<br>
 *Twitter:* [@wilsonism](https://twitter.com/wilsonism)<br>
 *Office:* Patterson Office Tower (POT) 861<br>
-*Office Hours:* TBD<br>
+*Office Hours:* Th 10:30-11:30 in POT861 and Th 3:00-4:00 in PH108<br>
 
 *Teaching Assistants:*
 * **Joe Blankenship**, jrbl235@uky.edu, *Lead TA*: sec 3, F 9:00-9:50, CB313 (can provide additional lab support by appointment)
