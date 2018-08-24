@@ -7,8 +7,8 @@ University of Kentucky
 
 [mapping 1](mapping-1)
 
-[mapping 2](mapping-2)
+[mapping 2](mapping-2) _draft_
 
-[mapping 3](mapping-3)
+[mapping 3](mapping-3) _draft_
 
-[mapping 4](mapping-4)
+[mapping 4](mapping-4) _draft_
