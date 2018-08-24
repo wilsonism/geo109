@@ -12,10 +12,10 @@ In particular, this assignment will introduce data preparation in Microsoft Exce
 
 The assignment is worth 50 points. Grading will be based on a Word document that you will upload to Canvas during Week 11. This document should include:
 
-1.  Your two exported maps (20 points),
-2.  Your responses to the questions in each part (30 points)
+1. Your two exported maps (20 points),
+2. Your responses to the questions in each part (30 points)
 
-**Due:** Submitted via Canvas by **11:59PM Friday of Week 8, March 4th**
+**Due:** Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment.
 
 **Note:** You must come to recitation week 6 with QGIS installed.
 
@@ -27,17 +27,17 @@ Be conscious of saving and storing your data, either on a thumbdrive, space you 
 
 ### If using Microsoft Windows…
 
-1.  Determine if you are a running 32- or 62- bit version of Windows by pressing WIN+X (windows key plus X) and selecting “system.”
+1. Determine if you are a running 32- or 62- bit version of Windows by pressing WIN+X (windows key plus X) and selecting “system.”
 
 ![Image11](images/Image11.jpeg)
 
 If using Windows 7 or XP, visit http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows#1TC=windows-7/ for directions.
 
-2.  Open a web browser and go to https://www.qgis.org/en/site/forusers/download.html.
+2. Open a web browser and go to https://www.qgis.org/en/site/forusers/download.html.
 
 ![Image21](images/Image21.jpeg)
 
-3.  Download and run the appropriate installer. The default settings should work just fine for our purposes. Go on to step 4.
+3. Download and run the appropriate installer. The default settings should work just fine for our purposes. Go on to step 4.
 
 ![Image31](images/Image31.jpeg)
 
@@ -47,7 +47,7 @@ If using Windows 7 or XP, visit http://windows.microsoft.com/en-us/windows/32-bi
 
 **Note:** You must follow the download instructions in order and install GDAL and Matplotlib and then QGIS.
 
-1.  First, because Macs are configured to not accept downloads that are not from the Mac App Store, you will probably have to change their security settings:
+1. First, because Macs are configured to not accept downloads that are not from the Mac App Store, you will probably have to change their security settings:
 
 Go to System Preferences > Security & Privacy > Allow apps downloaded from:
 
@@ -55,25 +55,25 @@ Anywhere
 
 ![Image41](images/Image41.jpeg)
 
-2.  Open a web browser and go to https://www.qgis.org/en/site/forusers/download.html.
+2. Open a web browser and go to https://www.qgis.org/en/site/forusers/download.html.
 
-3.  Click “Download for Mac OS X.” Follow the link to KyngChaos QGIS Download page (http://www.kyngchaos.com/software/qgis).
+3. Click “Download for Mac OS X.” Follow the link to KyngChaos QGIS Download page (http://www.kyngchaos.com/software/qgis).
 
 ![Image51](images/Image51.jpeg)
 
-4.  Click the link to “GDAL Complete 1.11 framework package…” and download GDAL 1.11 Complete (GDAL_Complete-1.11.dmg)...
+4. Click the link to “GDAL Complete 1.11 framework package…” and download GDAL 1.11 Complete (GDAL_Complete-1.11.dmg)...
 
 ![Image61](images/Image61.jpeg)
 
 ![Image62](images/Image62.jpeg)
 
-5.  Return to the KyngChaos page. Click the link to “Matplotlib Python module…” and download GDAL 1.11 Complete (GDAL_Complete-1.11.dmg).
+5. Return to the KyngChaos page. Click the link to “Matplotlib Python module…” and download GDAL 1.11 Complete (GDAL_Complete-1.11.dmg).
 
 ![Image71](images/Image71.jpeg)
 
 ![Image72](images/Image72.jpeg)
 
-6.  Return to the KyngChaos page. Click “QGIS 2.6.1-2” to download QGIS.
+6. Return to the KyngChaos page. Click “QGIS 2.6.1-2” to download QGIS.
 
 ![Image81](images/Image81.jpeg)
 

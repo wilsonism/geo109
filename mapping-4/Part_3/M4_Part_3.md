@@ -10,7 +10,7 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 
 2. Your responses to the questions in each part (30 points)
 
-**Due:** Submitted via Canvas by **11:59PM Friday of Week 8, March 4th**
+**Due:** Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment.
 
 Part 2 must be completed and shown on your screen at the beginning of section Week 8
 
