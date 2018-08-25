@@ -8,7 +8,7 @@ In particular, this assignment will introduce data preparation in Microsoft Exce
 
 ### This assignment will take three recitation sections to complete; therefore it is crucial that you attend each recitation and arrive on time.
 
-**Due:** Submitted via Canvas by **11:59PM Friday of Week 8, March 4th**
+**Due:** Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment.
 
 **Note:** You must come to recitation week 6 with QGIS installed.
 
@@ -20,11 +20,11 @@ You will receive points in section for having these parts done. Be conscious of 
 
 The assignment is worth 50 points. Grading will be based on a Word document that you will upload to Canvas during Week 11. This document should include:
 
-1.  Your two exported maps (20 points),
+1. Your two exported maps (20 points),
 
-2.  Your responses to the questions in each part (30 points)
+2. Your responses to the questions in each part (30 points)
 
-**Due:** Submitted via Canvas by **11:59PM Friday of Week 8, March 4th**
+**Due:** Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment.
 
 ## Part 1. Importing Geospatial Data
 

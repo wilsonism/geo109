@@ -26,7 +26,7 @@ Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date o
 3. Select three photos from your Lexington tour and rename them
 by right-clicking the file, and selecting ‘rename.’ Use the following naming convention: *yourlastname_#*.jpg (e.g., wilson_1.jpg, wilson_2.jpg, wilson_3.jpg).
 
-4. Create/sign into a [Google account](https://myaccount.google.com/). Your g.UKY email will likely not work for this assignment, even if you use the Gmail version). You must start by signing into a non-UKY Google account. **Note:** If you object to creating a non-UKY Google account, please inform your TA.
+4. Create/sign into a [Google account](https://myaccount.google.com/). You can use your g.UKY email. If you encounter issues with your g.UKY email for this assignment, sign into a non-UKY Google account. **Note:** If you object to creating a non-UKY Google account, please inform your TA.
 
 5. Navigate to the Google MyMaps for our class, [here](https://drive.google.com/open?id=1yE3DQCQvpT6YlbqdeQX6xj0jo7tmA_Wu&usp=sharing). **Note:** In order to edit this map you must be logged into your non-UKY Google account.
 
