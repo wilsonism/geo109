@@ -16,7 +16,7 @@ Part 2 must be completed and shown on your screen at the beginning of section We
 
 You will receive points in section for having these parts done.
 
-### Part 3: Perform a Join and Make a Choropleth Map
+## Part 3: Perform a Join and Make a Choropleth Map
 
 1. Open QGIS and add the Kentucky counties shapefile. Consult Part 1 if you get stuck.
 
