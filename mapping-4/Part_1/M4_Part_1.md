@@ -8,7 +8,7 @@ In particular, this assignment will introduce data preparation in Microsoft Exce
 
 ### This assignment will take three recitation sections to complete; therefore it is crucial that you attend each recitation and arrive on time.
 
-**Due:** Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment.
+**Due:** Consult the [syllabus schedule](../../syllabus.md#viii-schedule) for the due date of this assignment.
 
 **Note:** You must come to recitation week 6 with QGIS installed.
 
@@ -24,7 +24,7 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 
 2. Your responses to the questions in each part (30 points)
 
-**Due:** Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment.
+**Due:** Consult the [syllabus schedule](../../syllabus.md#viii-schedule) for the due date of this assignment.
 
 ## Part 1. Importing Geospatial Data
 

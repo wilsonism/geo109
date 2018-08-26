@@ -15,7 +15,7 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 1. Your two exported maps (20 points),
 2. Your responses to the questions in each part (30 points)
 
-**Due:** Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment.
+**Due:** Consult the [syllabus schedule](../../syllabus.md#viii-schedule) for the due date of this assignment.
 
 **Note:** You must come to recitation week 6 with QGIS installed.
 
