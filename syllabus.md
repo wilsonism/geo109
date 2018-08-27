@@ -144,7 +144,7 @@ Students should at all times be respectful of fellow students, the professor or 
 
 ### For students with special needs:
 
-If you have a documented disability that requires academic accommodations, please see me as soon as possible during scheduled office hours. In order to receive accommodations in this course, you must provide me with a Letter of Accommodation from the Disability Resource Center (Room 2, Alumni Gym, 859-257-2754, email address: jkarnes@email.uky.edu) for coordination of campus disability services available to students with disabilities.
+If you have a documented disability that requires academic accommodations, please see me as soon as possible during scheduled office hours. In order to receive accommodations in this course, you must provide me with a Letter of Accommodation from the Disability Resource Center (725 Rose Street, Suite 407 Multidisciplinary Science Building, 8AM to 4:30PM, 859-257-2754, email address: jkarnes@email.uky.edu) for coordination of campus disability services available to students with disabilities.
 
 ## VIII. Schedule
 
