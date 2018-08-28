@@ -3,9 +3,9 @@
 University of Kentucky
 <br>Matthew W. Wilson
 
-## Mapping 2: Introduction to ArcGIS Desktop
+## Mapping 2: Introduction to ArcGIS
 
-![Image11](assets/images/10_1.jpg)
+![ArcMap](assets/images/10_1.jpg)
 
 In this second of four mapping assignments before your final project, you will explore the opportunities of digital mapmaking using a desktop geographic information system. You will use the following technologies:
 
