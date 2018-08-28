@@ -39,7 +39,7 @@ The assignment is worth 30 points, based on a Word document (or PDF) you will up
 
 ![Image61](assets/images/61.jpg)
 
-7. The program will ask you where to find the data. Arc is a little quirky – it doesn’t just let you add any old file. First, you must connect ArcMap to the folder that contains your project. Find the “Connect to Folder” button at the top of the dialogue box.
+7. The program will ask you where to find the data. Arc is a little quirky – it doesn’t just let you add any old file. First, you must connect ArcMap to the folder that contains your project. Find the **“Connect to Folder”** button at the top of the dialogue box.
 
 ![Image71](assets/images/71.jpg)
 
@@ -78,7 +78,7 @@ The assignment is worth 30 points, based on a Word document (or PDF) you will up
 16. **In a Word document, include your three screenshots, and answer these three questions in about a paragraph each.** Reference readings and material covered in lecture and recitation:
 
 	* Q1. Explain choices for your maps; what made one bad and the other good? Think about who your audience might be, and issues of readability as well as aesthetics. There is no wrong or right map, as long as you can think through and defend your choices. (Think about Krygier & Wood, Ch. 2: What’s Your Map For?)
-	* Q2. What is a Shapefile? Who was it developed by, and what does it do? You don’t have to be too technical, just write your observations from this lab. Feel free to search online to help clarify things, though you should be careful to cite your sources.
+	* Q2. What is a Shapefile? Who was it developed by, and what does it do? You don’t have to be too technical, just write your observations from this lab. Feel free to search online to help clarify things, though you should be careful to **cite your sources**.
 	* Q3. Write a short review of ArcMap. Now that you’ve made a map using Google My Maps, you can compare issues of cost, accessibility, ease, interface, design, and to some extent, what the different mapping programs allow you to do. You might think about expert/amateur mapping (See Crampton, Ch. 1 and 2).
 
 17. **Upload a Word document or PDF to Canvas**. This document must include your three screenshots and your response to the prompt.
