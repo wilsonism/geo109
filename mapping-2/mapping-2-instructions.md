@@ -10,7 +10,7 @@ In this exercise, you will bring in, and edit the design of, a map of the common
 ## Grading
 
 The assignment is worth 30 points, based on a Word document (or PDF) you will upload to Canvas containing:
-1. Three screenshots: the unstyled Kentucky layer, the 'ugly map', and your much-improved 'attractive' map. Paste these three images into your Word document (15 points).
+1. Three screenshots: the unstyled Kentucky layer, the 'not well designed map', and your much-improved 'well designed' map. Paste these three images into your Word document (15 points).
 2. Responses to the three questions in the assignment (15 points).
 
 **Due:** Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment. **Note:** Late submissions will be penalized, as discussed in the syllabus.
@@ -57,28 +57,28 @@ The assignment is worth 30 points, based on a Word document (or PDF) you will up
 
 11. Now you get to change how it looks. This map of Kentucky is called a “layer” and it is the only layer you currently have. Go into the “layer properties” of this layer by right-clicking the layer and scrolling to “layer properties” or double clicking the layer. Explore the different menu tabs in this dialogue box to get a sense of the different things you can do to each layer.
 
-12. Now go to the “Symbology” tab and explore your options here. Below is an example of a bad map choice; I chose the mangrove pattern, made the fill purple, then removed the outlines (so you can no longer see the census tracts).
+12. Now go to the “Symbology” tab and explore your options here. Below is an example of an odd map choice; I chose the mangrove pattern, made the fill purple, then removed the outlines (so you can no longer see the census tracts). This is not well designed since the goal of mapping this data is to see and examine Kentucky's census tracts.
 
 ![Image12_1](assets/images/12_1.jpg)
 
 ![Image12_2](assets/images/12_2.jpg)
 
-13. Make your own ugly map; and make it even worse. We’re going to change the background color. Go to View > Data frame properties. Now we are changing not just the layer, but the whole map. Once in properties, go to the “frame” tab, and choose your background color. Return to the layer properties screen (see step 5). Change the layer’s symbol fill color and outlines, as well as the map background to make your own ugly map. **Screenshot it!**
+13. Make your own "not well designed" map. We’re going to change the background color. Go to View > Data frame properties. Now we are changing not just the layer, but the whole map. Once in properties, go to the “frame” tab, and choose your background color. Return to the layer properties screen (see step 5). Change the layer’s symbol fill color and outlines, as well as the map background to make your own not well designed map. **Screenshot it!**
 
 ![Image13_1](assets/images/13_1.jpg)
 
 ![Image13_2](assets/images/13_2.jpg)
 
-14. You’ve put some work into making your map ugly... it would be a pity to lose it! Select “Save As” from the File dropdown menu. Save it to your project folder, and name it “M2.mxd”. You’ve just saved an ArcMap project file, or an _.mxd_.
+14. You’ve put some work into making your map... it would be a pity to lose it! Select “Save As” from the File dropdown menu. Save it to your project folder, and name it “M2.mxd”. You’ve just saved an ArcMap project file, or an _.mxd_.
 
 ![Image14_1](assets/images/14_1.jpg)
 
-15. Now go back into the “Symbology” tab and fix it. Pick a fill and outline color of your choice, adjusting line weight and anything else you would like. Change the background color (your choice; white is fine). **Capture a screenshot of your attractive map**.
+15. Now go back into the “Symbology” tab and fix it. Pick a fill and outline color of your choice, adjusting line weight and anything else you would like. Change the background color (your choice; white is fine). **Capture a screenshot of your well designed map**.
 
 16. **In a Word document, include your three screenshots, and answer these three questions in about a paragraph each.** Reference readings and material covered in lecture and recitation:
 
-	* Q1. Explain choices for your maps; what made one bad and the other good? Think about who your audience might be, and issues of readability as well as aesthetics. There is no wrong or right map, as long as you can think through and defend your choices. (Think about Krygier & Wood, Ch. 2: What’s Your Map For?)
+	* Q1. Explain choices for your maps; what made one odd and the other well designed? Think about who your audience might be, and issues of readability as well as aesthetics. There is no wrong or right map, as long as you can think through and defend your choices. (Think about Krygier & Wood, Ch. 2: What’s Your Map For?)
 	* Q2. What is a Shapefile? Who was it developed by, and what does it do? You don’t have to be too technical, just write your observations from this lab. Feel free to search online to help clarify things, though you should be careful to **cite your sources**.
-	* Q3. Write a short review of ArcMap. Now that you’ve made a map using Google My Maps, you can compare issues of cost, accessibility, ease, interface, design, and to some extent, what the different mapping programs allow you to do. You might think about expert/amateur mapping (See Crampton, Ch. 1 and 2).
+	* Q3. Write a short review of ArcMap. Now that you’ve made a map using Google MyMaps, you can compare issues of cost, accessibility, ease, interface, design, and to some extent, what the different mapping programs allow you to do. You might think about expert/amateur mapping (See Crampton, Ch. 1 and 2).
 
 17. **Upload a Word document or PDF to Canvas**. This document must include your three screenshots and your response to the prompt.
