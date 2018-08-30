@@ -8,7 +8,7 @@ In particular, this assignment will introduce data preparation in Microsoft Exce
 
 ### This assignment will take three recitation sections to complete; therefore it is crucial that you attend each recitation and arrive on time.
 
-**Due:** Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment.
+**Due:** Consult the [syllabus schedule](../../syllabus.md#viii-schedule) for the due date of this assignment.
 
 **Note:** You must come to recitation week 6 with QGIS installed.
 
@@ -25,7 +25,7 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 1.  Your two exported maps (20 points),
 2.  Your responses to the questions in each part (30 points)
 
-**Due:** Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment.
+**Due:** Consult the [syllabus schedule](../../syllabus.md#viii-schedule) for the due date of this assignment.
 
 **Note:** Tips for Working with Excel are listed after Step 10. I recommend reading them before getting started, but don’t get hung up on them if they don’t help you; they’re optional. **Do, however, save your work as you go along, and consider bringing a thumb drive to section.**
 
