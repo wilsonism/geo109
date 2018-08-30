@@ -29,6 +29,8 @@ The assignment is worth 30 points, based on a Word document (or PDF) you will up
 
 ![Image31](assets/images/31.jpg)
 
+![Image32](assets/images/32.jpg)
+
 4. You’ll see that five files have been extracted from the ZIP file. Esri, the company that owns ArcGIS, developed the shapefile as a way of storing spatial data. It includes location, shape, and attributes. A shapefile is always made up of at least four files that work together like a little basketball team. **Although only one has the .shp extension, if you do not extract them all, or you delete any, it will not work.**
 
 ![Image41](assets/images/41.jpg)
