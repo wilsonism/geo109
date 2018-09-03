@@ -3,12 +3,14 @@
 University of Kentucky
 <br>[Matthew W. Wilson](https://wilsonism.github.io/)
 
-[syllabus](syllabus.md)
+[Syllabus](syllabus.md)
 
-[mapping 1](mapping-1)
+[GIS Lab Schedule](fall_2018_lab_sched.pdf)
 
-[mapping 2](mapping-2)
+[Mapping 1](mapping-1)
 
-[mapping 3](mapping-3) _draft_
+[Mapping 2](mapping-2)
 
-[mapping 4](mapping-4) _draft_
+[Mapping 3](mapping-3) _draft_
+
+[Mapping 4](mapping-4) _draft_
