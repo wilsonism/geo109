@@ -11,6 +11,6 @@ University of Kentucky
 
 [Mapping 2](mapping-2)
 
-[Mapping 3](mapping-3) _draft_
+[Mapping 3](mapping-3)
 
 [Mapping 4](mapping-4) _draft_
