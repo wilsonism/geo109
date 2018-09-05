@@ -29,11 +29,11 @@ Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date o
 
 5. Click the **color scale** in the top right hand corner again. Instead of clicking Colors, select **Cutpoints**. From here you can change the data classification model. **Note:** Here, you can change both the *method* of data classification, and the *number of classes* into which the data is divided. Explore how these options affect the symbology.<br>![Cutpoints](assets/images/socialexp_cutpoints.png)
 
-6. **Change the Map Layout** by pressing the gray button at the bottom of the screen in the middle. **Note:** You can create Side-by-Side and Swipe maps for easy comparison. Since we will be comparing similar maps in this assignment, we will use the Side-by-Side layout.<br>![Map Layout](assets/images/socialexp_maplayout.png)
+6. **Change the Map Layout** by pressing the gray button at the bottom of the screen in the middle. **Note:** You can create Side-by-Side and Swipe maps for easy comparison. Since we will be comparing similar maps in this assignment, we will use the _Side-by-Side_ layout.<br>![Map Layout](assets/images/socialexp_maplayout.png)
 
 7. **Click the Export button** at the top of the screen. Note that you can download your maps as images (.png) or as zip files at a resolution of your choosing. **Export your maps as PNG images.**
 
-8. Finally, click the **Change Data** tab in the top left hand corner. **Note:** The variety of data Social Explorer makes available for each year. Think about who produced this data and how it was produced: what kind of limits might the 'official' nature of this data place on the stories told by Social Explorer maps?
+8. **Change the Map Layout** back to _Single_. Click the **Change Data** tab in the top left hand corner. **Note:** The variety of data Social Explorer makes available for each year. Think about who produced this data and how it was produced: what kind of limits might the 'official' nature of this data place on the stories told by Social Explorer maps?
 
 9. Select Change Data, set Survey Year to _2010_, and select _Family Structure_.<br>![Change Data](assets/images/socialexp_changedata.png)
 
@@ -51,7 +51,7 @@ In what follows, you will be producing different maps that tell very different s
 
 1. Select Side-by-Side from the Change Map Layout icon. On one of the maps, select any Sequential color scheme (EXCEPT for Full Spectar). On the second, select any Diverging color scheme.
 
-2. Export (download) your maps as image (.png) files and place them in your Word document.
+2. Export (download) your maps as image (.png) files and place them in your Word document. Label the maps with their respective color schemes.
 
 3. Answer QUESTION ONE in your Word document: **Which color scheme is more appropriate for this data and why?**
 
@@ -59,7 +59,7 @@ In what follows, you will be producing different maps that tell very different s
 
 1. Change both maps back to the default color scheme (SE Orange). Change the data classification method used in each map: in the first map, use equal interval and in the second, quintile.
 
-2. Export (download) your maps as image (.png) files and place them in your Word document.
+2. Export (download) your maps as image (.png) files and place them in your Word document. Label the maps with their respective classification schemes.
 
 3. Answer QUESTION TWO: **Assume that you are trying to make the case that single parent families are in need of more financial support. Which of these two maps (equal interval or quintile) would you use to make this argument and why?**
 
