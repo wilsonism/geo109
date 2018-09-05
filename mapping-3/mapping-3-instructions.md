@@ -19,7 +19,7 @@ Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date o
 
 ## Instructions.
 
-1. To begin, you will need to create a Social Explorer account and log in. Access Social Explorer through the library (**available at [http://libraries.uky.edu/record.php?lir_id=1147](http://libraries.uky.edu/record.php?lir_id=1147)**). Once you're logged in, double check that the University of Kentucky is noted as the license provider in the top right corner of the Social Explorer website.<br>![Social Explorer at UK](assets/images/socialexp_signin.png)
+1. To begin, you will need to create a Social Explorer account and log in. Access Social Explorer through the library (**available at [this link](http://ezproxy.uky.edu/login?url=https://www.socialexplorer.com/)**). Once you're logged in, double check that the University of Kentucky is noted as the license provider in the top right corner of the Social Explorer website.<br>![Social Explorer at UK](assets/images/socialexp_signin.png)
 
 2. Once you have logged in, click on the Maps tab near the top of the screen. Then click the red **Start Now** button for the _U.S. Demography_ map to begin mapping.<br>![Start Social Explorer](assets/images/socialexp_start.png)<br>Social Explorer will then prompt you to either Take a Tour of its interface or Skip it and immediately start mapping. Feel free to take the tour, but the magic starts when you start mapping.
 
