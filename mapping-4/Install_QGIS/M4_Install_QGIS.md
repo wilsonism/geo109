@@ -2,9 +2,9 @@
 
 # Mapping 4: Introduction to QGIS-Installation Instructions
 
-This exercise involves a mapping process commonly used by professional cartographers. As such, you’ll use with data in new ways—be patient! By engaging more deeply with data, you’ll start to understand the moving parts of making digital maps that are often hidden from their users.
+This exercise involves a mapping process commonly used by professional cartographers. As such, you’ll use data in new ways—be patient! By engaging more deeply with data, you’ll start to understand the moving parts of making digital maps that are often hidden from their users.
 
-In particular, this assignment will introduce data preparation in Microsoft Excel, and visualization in QGIS, a free and open-source (FOSS) software. The 3-part assignment will be completed over the three recitation sections. **Before section** week 6, download QGIS to your computer. In section, you will import county geometry.
+In particular, this assignment will introduce data preparation in Microsoft Excel, and visualization in QGIS, a free and open-source software (FOSS). The 3-part assignment will be completed over the three recitation sections. **Before section** week 6, download QGIS to your computer. In section, you will import county geometry.
 
 ### This assignment will take three recitation sections to complete; therefore it is crucial that you attend each recitation and arrive on time.
 
@@ -37,44 +37,28 @@ If using Windows 7 or XP, visit http://windows.microsoft.com/en-us/windows/32-bi
 
 ![Image21](images/Image21.jpeg)
 
-3. Download and run the appropriate installer. The default settings should work just fine for our purposes. Go on to step 4.
-
-![Image31](images/Image31.jpeg)
-
-![Image32](images/Image32.jpeg)
+3. Download and run the appropriate installer. The default settings should work just fine for our purposes.
 
 ### If using Mac OS X…
 
-**Note:** You must follow the download instructions in order and install GDAL and Matplotlib and then QGIS.
+**Note:** You must follow the download instructions from the QGIS download site carefully.
 
 1. First, because Macs are configured to not accept downloads that are not from the Mac App Store, you will probably have to change their security settings:
 
-Go to System Preferences > Security & Privacy > Allow apps downloaded from:
-
-Anywhere
+    * Go to System Preferences > Security & Privacy > Allow apps downloaded from:
+      * Anywhere
 
 ![Image41](images/Image41.jpeg)
 
 2. Open a web browser and go to https://www.qgis.org/en/site/forusers/download.html.
 
-3. Click “Download for Mac OS X.” Follow the link to KyngChaos QGIS Download page (http://www.kyngchaos.com/software/qgis).
+3. Click “Download for Mac OS X.” 
 
 ![Image51](images/Image51.jpeg)
 
-4. Click the link to “GDAL Complete 1.11 framework package…” and download GDAL 1.11 Complete (GDAL_Complete-1.11.dmg)...
+4. Download the appropriate installer. As noted in the Download section, if you choose to install QGIS 3.2, you need to have Python 3.6 installed.
 
-![Image61](images/Image61.jpeg)
+    * Follow the link to install Python 3.6 or higher if you do not have it installed on your Mac.
+    * If you do not or cannot install Python 3.6, the QGIS 2.18 installer will also work for Mapping 4.
 
-![Image62](images/Image62.jpeg)
-
-5. Return to the KyngChaos page. Click the link to “Matplotlib Python module…” and download GDAL 1.11 Complete (GDAL_Complete-1.11.dmg).
-
-![Image71](images/Image71.jpeg)
-
-![Image72](images/Image72.jpeg)
-
-6. Return to the KyngChaos page. Click “QGIS 2.6.1-2” to download QGIS.
-
-![Image81](images/Image81.jpeg)
-
-7. Locate the downloaded files and run the installers using the default settings. Ignore the warnings about installing an application from the internet if they pop up. This is a trusted website and does not pose a threat to the security of your system. Install QGIS last, as it requires that the other two packages be installed to function.
+5. Run the downloaded installer.
