@@ -4,13 +4,13 @@
 
 This exercise involves a mapping process commonly used by professional cartographers. As such, you’ll use data in new ways—be patient! By engaging more deeply with data, you’ll start to understand the moving parts of making digital maps that are often hidden from their users.
 
-In particular, this assignment will introduce data preparation in Microsoft Excel, and visualization in QGIS, a free and open-source software (FOSS). The 3-part assignment will be completed over the three recitation sections. **Before section** week 6, download QGIS to your computer. In section, you will import county geometry.
+In particular, this assignment will introduce data preparation in Microsoft Excel and visualization in QGIS, a free and open-source software (FOSS). The 3-part assignment will be completed over the three recitation sections. **Before section** week 6, download QGIS to your computer. In section, you will import county geometry.
 
 ### This assignment will take three recitation sections to complete; therefore it is crucial that you attend each recitation and arrive on time.
 
 ### Grading and Deliverables
 
-The assignment is worth 50 points. Grading will be based on a Word document that you will upload to Canvas during Week 11. This document should include:
+The assignment is worth 50 points. Grading will be based on a Word document/PDF that you will upload to Canvas during Week 8. This document should include:
 
 1. Your two exported maps (20 points),
 2. Your responses to the questions in each part (30 points)
