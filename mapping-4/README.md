@@ -15,5 +15,3 @@ In this fourth mapping assignment, you will explore a workflow that many profess
 2. [Import Spatial Data](Part_1/M4_Part_1.md)
 3. [Download and Clean Census Data](Part_2/M4_Part_2.md)
 4. [Visualize Spatial Data](Part_3/M4_Part_3.md)
-
-Follow the instructions, [here](mapping-4-instructions.md).

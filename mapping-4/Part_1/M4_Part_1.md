@@ -1,18 +1,18 @@
-# Geography 109
+# Geography 109:<br>Digital Mapping
 
 # Mapping 4: Introduction to QGIS: Part 1
 
 This exercise involves a mapping process commonly used by professional cartographers. As such, you’ll use data in new ways—be patient! By engaging more deeply with data, you’ll start to understand the moving parts of making digital maps that are often hidden from their users.
 
-In particular, this assignment will introduce data preparation in Microsoft Excel and visualization in QGIS, a free and open-source software (FOSS). The 3-part assignment will be completed over the three recitation sections. **Before section** week 6, download QGIS to your computer. In section, you will import county geometry. Second, during week 6, you will download tabular data from FactFinder2 and use Excel to clean the data.
+In particular, this assignment will introduce data preparation in Microsoft Excel and visualization in QGIS, a free and open-source software (FOSS). The 3-part assignment will be completed over the three recitation sections. **Before section** week 5, download QGIS to your computer. In section, you will import county geometry. Second, during week 6, you will download tabular data from FactFinder2 and use Excel to clean the data.
 
 ### This assignment will take three recitation sections to complete; therefore it is crucial that you attend each recitation and arrive on time.
 
 **Due:** Consult the [syllabus schedule](../../syllabus.md#viii-schedule) for the due date of this assignment.
 
-**Note:** You must come to recitation week 6 with QGIS installed.
+**Note:** You must come to recitation week 5 with QGIS installed.
 
-Part 1 questions must be answered and shown on your screen at the beginning of section Week 7
+Part 1 questions must be answered and shown on your screen at the beginning of section Week 6.
 
 You will receive points in section for having these parts done. Be conscious of saving and storing your data, either on a thumbdrive, space you know is secure on the UK drive, on cloud storage, or your laptop. It is your responsibility to save your data securely.
 
@@ -44,17 +44,17 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 
 4. Open QGIS. The interface should look familiar after learning ArcGIS. The two platforms are fairly similar and ‘think’ in the same way (mostly).
 
-### For QGIS 2.18
-
-#### (go [here](#for-qgis-32) for QGIS 3.2)
-
 5. Click “Add Vector Layer” on the left side of the screen. In the Add Vector Layer dialogue box, click the “Browse” button to locate your shapefile.
+
+    * If you're using QGIS 3.2 and cannot see this sidebar, click View > Toolbars > Manage Layers Toolbar.
 
 ![Image41](images/Image51.jpeg)
 
 ![Image42](images/Image52.jpeg)
 
 6. Locate the folder that contains your shapefile and click the file ending in “.shp.” **Note: this is potentially confusing as there are other files that also have the .shp extension (e.g.,shp.xml)** and sometimes the extension will be hidden. Take a close look; you may have to experiment a bit before you find the right file. Click “Open” and “Open” again in the “Add Vector Layer” dialogue box.
+
+    * In QGIS 3.2, you will click "Open", then "Add", and finally "Close" in the Data Source Manager dialogue box.
 
 ![Image61](images/Image61.jpeg)
 
@@ -65,24 +65,6 @@ Congratulations! You’ve just made a map in QGIS! Your shapefile should now be 
 7. Open the attribute table of the layer: you will see this option when you right-click the layer. You can use the information in here to answer Question 2.
 
 ![Image71](images/Image71.jpeg)
-
-### For QGIS 3.2
-
-5. Browse for your shapefile on the left side of the screen. Drag and drop my shapefile onto the canvas.
-
-![Image41](images/Image81.jpeg)
-
-6. Alternatively, you can goto your toolbar at the top and select _Layer > Add Layer > Add Vector Layer_. Locate the _Source_ folder that contains your shapefile and click the file ending in “.shp.” **Note: this is potentially confusing as there are other files that also have the .shp extension (e.g.,shp.xml)** and sometimes the extension will be hidden. Take a close look; you may have to experiment a bit before you find the right file. Click “Open” and then click “Add” in the “Data Source Manager” dialogue box.
-
-![Image61](images/Image91.jpeg)
-
-Congratulations! You’ve just made a map in QGIS! Your shapefile should now be displayed in the map window and in the QGIS list of active layers.
-
-![Image62](images/Image92.jpeg)
-
-7. Open the attribute table of the layer: you will see this option when you right-click the layer. You can use the information in here to answer Question 2.
-
-![Image71](images/Image10_1.jpeg)
 
 ### Part 1 Questions
 

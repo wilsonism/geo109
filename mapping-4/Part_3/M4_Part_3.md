@@ -1,4 +1,4 @@
-# Geography 109
+# Geography 109:<br>Digital Mapping
 
 # Mapping 4: Introduction to QGIS: Part 3
 
@@ -11,7 +11,7 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 
 **Due:** Consult the [syllabus schedule](../../syllabus.md#viii-schedule) for the due date of this assignment.
 
-Part 2 must be completed and shown on your screen at the beginning of section Week 8
+Part 2 must be completed and shown on your screen at the beginning of section Week 7
 
 You will receive points in section for having these parts done.
 

@@ -1,10 +1,10 @@
-# Geography 109
+# Geography 109:<br>Digital Mapping
 
-# Mapping 4: Introduction to QGIS-Installation Instructions
+# Mapping 4: Introduction to QGIS: Installation Instructions
 
 This exercise involves a mapping process commonly used by professional cartographers. As such, you’ll use data in new ways—be patient! By engaging more deeply with data, you’ll start to understand the moving parts of making digital maps that are often hidden from their users.
 
-In particular, this assignment will introduce data preparation in Microsoft Excel and visualization in QGIS, a free and open-source software (FOSS). The 3-part assignment will be completed over the three recitation sections. **Before section** week 6, download QGIS to your computer. In section, you will import county geometry.
+In particular, this assignment will introduce data preparation in Microsoft Excel and visualization in QGIS, a free and open-source software (FOSS). The 3-part assignment will be completed over the three recitation sections. **Before section** week 5, download QGIS to your computer. In section, you will import county geometry.
 
 ### This assignment will take three recitation sections to complete; therefore it is crucial that you attend each recitation and arrive on time.
 
@@ -17,13 +17,13 @@ The assignment is worth 50 points. Grading will be based on a Word document/PDF 
 
 **Due:** Consult the [syllabus schedule](../../syllabus.md#viii-schedule) for the due date of this assignment.
 
-**Note:** You must come to recitation week 6 with QGIS installed.
+**Note:** You must come to recitation week 5 with QGIS installed.
 
-Part 1 questions must be answered and shown on your screen at the beginning of section Week 7. You will receive points in section for having these parts done.
+Part 1 questions must be answered and shown on your screen at the beginning of section Week 6. You will receive points in section for having these parts done.
 
 Be conscious of saving and storing your data, either on a thumbdrive, space you know is secure on the UK drive, on cloud storage, or your laptop. It is your responsibility to save your data securely.
 
-### Before you begin (do this before week 6): Install QGIS
+### Before you begin (do this before week 5): Install QGIS
 
 ### If using Microsoft Windows…
 
