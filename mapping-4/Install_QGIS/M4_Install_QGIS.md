@@ -37,11 +37,11 @@ If using Windows 7 or XP, visit http://windows.microsoft.com/en-us/windows/32-bi
 
 ![Image21](images/Image21.jpeg)
 
-3. Download and run the appropriate installer. The default settings should work just fine for our purposes.
+3. Download and run the appropriate installer (2.18 is the most stable and least likely to give you issues). The default settings should work just fine for our purposes.
 
 ### If using Mac OS X…
 
-**Note:** You must follow the download instructions from the QGIS download site carefully.
+**Note:** You must follow the download instructions from the QGIS download site carefully. Use of QGIS 2.18 is recommended.
 
 1. First, because Macs are configured to not accept downloads that are not from the Mac App Store, you will probably have to change their security settings:
 
@@ -56,9 +56,13 @@ If using Windows 7 or XP, visit http://windows.microsoft.com/en-us/windows/32-bi
 
 ![Image51](images/Image51.jpeg)
 
-4. Download the appropriate installer. As noted in the Download section, if you choose to install QGIS 3.2, you need to have Python 3.6 installed.
+4. Download the installer for QGIS 2.18. 
 
-    * Follow the link to install Python 3.6 or higher if you do not have it installed on your Mac.
-    * If you do not or cannot install Python 3.6, the QGIS 2.18 installer will also work for Mapping 4.
+5. Run the downloaded installer. When opening the `.dmg` file, it is important that you install the packages sequentially:
 
-5. Run the downloaded installer.
+    * Install GDAL First
+    * Install NumPy Second
+    * Install matplotlib Third
+    * Install QGIS Last
+
+  **Note:** Watch [this video](https://youtu.be/g8T6eWwWA-8?t=3m16s) starting at time 3:16 to see an installation of QGIS 2.18 for Mac.
