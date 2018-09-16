@@ -1,18 +1,18 @@
-# Geography 109
+# Geography 109:<br>Digital Mapping
 
 # Mapping 4: Introduction to QGIS: Part 1
 
-This exercise involves a mapping process commonly used by professional cartographers. As such, you’ll use with data in new ways—be patient! By engaging more deeply with data, you’ll start to understand the moving parts of making digital maps that are often hidden from their users.
+This exercise involves a mapping process commonly used by professional cartographers. As such, you’ll use data in new ways—be patient! By engaging more deeply with data, you’ll start to understand the moving parts of making digital maps that are often hidden from their users.
 
-In particular, this assignment will introduce data preparation in Microsoft Excel, and visualization in QGIS, a free and open-source (FOSS) software. The 3-part assignment will be completed over the three recitation sections. **Before section** week 6, download QGIS to your computer. In section, you will import county geometry. Second, during week 6, you will download tabular data from FactFinder2 and use Excel to clean the data.
+In particular, this assignment will introduce data preparation in Microsoft Excel and visualization in QGIS, a free and open-source software (FOSS). The 3-part assignment will be completed over the three recitation sections. **Before section** week 5, download QGIS to your computer. In section, you will import county geometry. Second, during week 6, you will download tabular data from FactFinder2 and use Excel to clean the data.
 
 ### This assignment will take three recitation sections to complete; therefore it is crucial that you attend each recitation and arrive on time.
 
 **Due:** Consult the [syllabus schedule](../../syllabus.md#viii-schedule) for the due date of this assignment.
 
-**Note:** You must come to recitation week 6 with QGIS installed.
+**Note:** You must come to recitation week 5 with QGIS installed.
 
-Part 1 questions must be answered and shown on your screen at the beginning of section Week 7
+Part 1 questions must be answered and shown on your screen at the beginning of section Week 6.
 
 You will receive points in section for having these parts done. Be conscious of saving and storing your data, either on a thumbdrive, space you know is secure on the UK drive, on cloud storage, or your laptop. It is your responsibility to save your data securely.
 
@@ -36,25 +36,29 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 
 ![Image21](images/Image21.jpeg)
 
-3. The shapefile you just downloaded is in a compressed folder – a ZIP file – that you must _extract_. Use the technique you learned in M2, being sure to extract _all_ the files, and save themto somewhere easy to find again, like a folder on your desktop made for this purpose.(Remember that the shapefile is actually 5 different files. All of these files are necessary components of the shapefile’s data structure. They must all stay in the same folder or the filewill not work correctly.)
+3. The shapefile you just downloaded is in a compressed folder – a ZIP file – that you must _extract_. Use the technique you learned in M2 to extract _all_ the files and save them to somewhere easy to find again, like a folder on your desktop made for this purpose (remember that the shapefile is actually 5 different files). All of these files are necessary components of the shapefile’s data structure. They must all stay in the same folder or the file will not work correctly.
 
 ![Image31](images/Image31.jpeg)
 
 ![Image32](images/Image32.jpeg)
 
-4. Open QGIS. The interface should look familiar, after learning ArcGIS. The two platforms are fairly similar and ‘think’ in the same way (mostly).
+4. Open QGIS. The interface should look familiar after learning ArcGIS. The two platforms are fairly similar and ‘think’ in the same way (mostly).
 
 5. Click “Add Vector Layer” on the left side of the screen. In the Add Vector Layer dialogue box, click the “Browse” button to locate your shapefile.
+
+    * If you're using QGIS 3.2 and cannot see this sidebar, click View > Toolbars > Manage Layers Toolbar.
 
 ![Image41](images/Image51.jpeg)
 
 ![Image42](images/Image52.jpeg)
 
-6. Locate the folder that contains your shapefile and click the file ending in “.shp.” **Note: this is potentially confusing as there are other files that also have the .shp extension (e.g.,shp.xml)** and sometimes the extension will be hidden. Take a close look; you may have toexperiment a bit before you find the right file. Click “Open”, and “Open” again in the “Add vector layer” dialogue box.
+6. Locate the folder that contains your shapefile and click the file ending in “.shp.” **Note: this is potentially confusing as there are other files that also have the .shp extension (e.g.,shp.xml)** and sometimes the extension will be hidden. Take a close look; you may have to experiment a bit before you find the right file. Click “Open” and “Open” again in the “Add Vector Layer” dialogue box.
+
+    * In QGIS 3.2, you will click "Open", then "Add", and finally "Close" in the Data Source Manager dialogue box.
 
 ![Image61](images/Image61.jpeg)
 
-Congratulations; you’ve just made a map in QGIS! Your shapefile should now be displayedin the map window and in the QGIS list of active layers.
+Congratulations! You’ve just made a map in QGIS! Your shapefile should now be displayed in the map window and in the QGIS list of active layers.
 
 ![Image62](images/Image62.jpeg)
 
@@ -66,7 +70,7 @@ Congratulations; you’ve just made a map in QGIS! Your shapefile should now be 
 
 Respond to each of the following questions. Make sure you provide evidence for your claims, in 150 to 300 words for question 1. For question 2 you can also provide an explanation of how you came up with your percentage.
 
-1. What does it mean to say that QGIS is free and open-source software (FOSS)? What are the implications for ‘expert’ cartography and access to mapmaking technology? Do some research – the index of your Crampton textbook is a good place to start. **Cite Crampton**.
+1. What does it mean to say that QGIS is free and open-source software (FOSS)? What are the implications for ‘expert’ cartography and access to mapmaking technology? Do some research and **cite your sources**.
 
 2. How much of Bourbon County is under water? Use the attribute table to find **this percentage**. Hint: ALAND10 and AWATER10 will be helpful here. If you are not sure what these variable names mean, try a Google search. Note that these attributes are given in units of square meters.
 

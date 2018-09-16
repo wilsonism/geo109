@@ -13,4 +13,4 @@ University of Kentucky
 
 [Mapping 3](mapping-3)
 
-[Mapping 4](mapping-4) _draft_
+[Mapping 4](mapping-4)
