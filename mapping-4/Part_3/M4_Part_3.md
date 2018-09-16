@@ -2,6 +2,10 @@
 
 # Mapping 4: Introduction to QGIS: Part 3
 
+> [Mapping 4](../README.md) - [Install QGIS](../Install_QGIS/M4_Install_QGIS.md) - [Part 1](../Part_1/M4_Part_1.md) - [Part 2](../Part_2/M4_Part_2.md) - [**Part 3**](M4_Part_3.md)
+
+___
+
 ### Grading and Deliverables 
 
 The assignment is worth 50 points. Grading will be based on a Word document that you will upload to Canvas during Week 08. This document should include:
@@ -130,3 +134,6 @@ Answers should be about a paragraph for each question.
 
 ### _Upload your Word document to Canvas._
 
+___
+
+> [Mapping 4](../README.md) - [Install QGIS](../Install_QGIS/M4_Install_QGIS.md) - [Part 1](../Part_1/M4_Part_1.md) - [Part 2](../Part_2/M4_Part_2.md) - [**Part 3**](M4_Part_3.md)

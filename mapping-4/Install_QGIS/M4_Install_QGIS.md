@@ -2,6 +2,10 @@
 
 # Mapping 4: Introduction to QGIS: Installation Instructions
 
+> [Mapping 4](../README.md) - [**Install QGIS**](M4_Install_QGIS.md) - [Part 1](../Part_1/M4_Part_1.md) - [Part 2](../Part_2/M4_Part_2.md) - [Part 3](../Part_3/M4_Part_3.md)
+
+___
+
 This exercise involves a mapping process commonly used by professional cartographers. As such, you’ll use data in new ways—be patient! By engaging more deeply with data, you’ll start to understand the moving parts of making digital maps that are often hidden from their users.
 
 In particular, this assignment will introduce data preparation in Microsoft Excel and visualization in QGIS, a free and open-source software (FOSS). The 3-part assignment will be completed over the three recitation sections. **Before section** week 5, download QGIS to your computer. In section, you will import county geometry.
@@ -70,3 +74,7 @@ If using Windows 7 or XP, visit http://windows.microsoft.com/en-us/windows/32-bi
 ## If using Linux…
 
 1. Contact your TA. If the installation instructions from QGIS are not clear, your TA will provide you additional guidance on how to install QGIS for your particular flavor of Linux.
+
+___
+
+> [Mapping 4](../README.md) - [**Install QGIS**](M4_Install_QGIS.md) - [Part 1](../Part_1/M4_Part_1.md) - [Part 2](../Part_2/M4_Part_2.md) - [Part 3](../Part_3/M4_Part_3.md)
