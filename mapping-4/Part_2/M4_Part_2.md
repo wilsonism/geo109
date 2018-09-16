@@ -2,6 +2,10 @@
 
 # Mapping 4: Introduction to QGIS: Part 2
 
+> [Mapping 4](../README.md) - [Install QGIS](../Install_QGIS/M4_Install_QGIS.md) - [Part 1](../Part_1/M4_Part_1.md) - [**Part 2**](M4_Part_2.md) - [Part 3](../Part_3/M4_Part_3.md)
+
+___
+
 This exercise involves a mapping process commonly used by professional cartographers. As such, you’ll use data in new ways—be patient! By engaging more deeply with data, you’ll start to understand the moving parts of making digital maps that are often hidden from their users.
 
 In particular, this assignment will introduce data preparation in Microsoft Excel and visualization in QGIS, a free and open-source software (FOSS). The 3-part assignment will be completed over the three recitation sections. In Week 5, you imported county geometry. In Week 6, you will download tabular data from FactFinder2 and use Excel to clean the data. In Week 7, you will join the tabular data to the county geometry and produce choropleth maps similar to those produced by Social Explorer in Mapping 3. Take these timelines seriously, otherwise you’ll have trouble completing the assignment. 
@@ -126,3 +130,7 @@ Respond to each of the following questions. Make sure you provide evidence for y
     * individual or aggregate?
     * discrete or continuous?
     * qualitative or quantitative?
+
+___
+
+> [Mapping 4](../README.md) - [Install QGIS](../Install_QGIS/M4_Install_QGIS.md) - [Part 1](../Part_1/M4_Part_1.md) - [**Part 2**](M4_Part_2.md) - [Part 3](../Part_3/M4_Part_3.md)
