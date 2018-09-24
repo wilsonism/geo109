@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>GEO 109</title>
+    <meta name="description" content="GEO 109 - Digital Mapping" />
+    <meta name="author" content="Joe Blankenship" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+    <!-- remove below CSS3 with custom CSS3-->
+    <link href="css/impress-demo.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="img/favicon.png" />
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png" />
+</head>
+
+<body class="impress-not-supported">
+    <div class="fallback-message">
+        <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+        <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+    </div>
+    <div id="impress">
+        <div id="home" class="step" data-x="0" data-y="0" data-scale="6">
+            <span class="subtitle">Welcome to</span>
+            <h1>GEO 109</h1>
+            <span>Digital Mapping</span>
+            <br>
+            <span>University of Kentucky</span>
+            <br>
+            <span class="footnote">use arrow keys or swipe to navigate</span>
+        </div>
+        <div class="step" data-x="1000" data-y="1000" data-z="-2000" data-rotate-x="-180" data-rotate-y="180" data-scale="2">
+            <ul>
+                <li>Introduction</li>
+                <li>Syllabus</li>
+                <li>Lab Schedule</li>
+                <li>Mapping 1 thru 4</li>
+            </ul>
+        </div>
+        <div id="overview" class="step" data-x="3000" data-y="1500" data-z="0" data-scale="10">
+            <p>test</p>
+        </div>
+    </div>
+    <div class="hint">
+        <p>Use a spacebar or arrow keys to navigate.
+            <br/> Press 'P' to launch speaker console.</p>
+    </div>
+    <script>
+    if ("ontouchstart" in document.documentElement) {
+        document.querySelector(".hint").innerHTML = "<p>Swipe left or right to navigate</p>";
+    }
+    </script>
+    <script src="js/impress.js"></script>
+    <script>
+    impress().init();
+    </script>
+</body>
+
+</html>
