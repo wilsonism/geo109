@@ -51,7 +51,7 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 
 ![Image41](images/Image41.jpeg)
 
-5. Click on “Profile of General Population and Housing Characteristics: 2010” (based on the 2010 **SF1 100%** Data; see above). Do not check off the box to the left of this or yourdownload will be different than shown her_**.
+5. Click on “Profile of General Population and Housing Characteristics: 2010” (based on the 2010 **SF1 100%** Data; see above). **_Do not check off the box to the left of this or your download will be different than shown here_**.
 
 6. You now need to download the data. To do so, click the “Download” button.
 
@@ -79,10 +79,10 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 
 10. FactFinder has given us a huge amount of data, but we’re only interested in some of the attributes. In particular, we’re looking for data on each county’s **total population, median age, single fathers, and single mothers**. In the CSV files, these are the named as follows:
 
-	- **Total Population:** Number; SEX AND AGE - Total Population
-	- **Median Age:** Number: SEX AND AGE - Total population - Median age (years)
-	- **Total single mothers:** Number; HOUSEHOLDS BY TYPE - Total households - Familyhouseholds (families) [7] - Female householder, no husband present - With own children under 18 years
-	- **Total single fathers:** Number; HOUSEHOLDS BY TYPE - Total households - Familyhouseholds (families) [7] - Male householder, no wife present - With own children under 18 years
+	- **Total Population:** Number; SEX AND AGE - Total population
+	- **Median Age:** Number; SEX AND AGE - Total population - Median age (years)
+	- **Total single mothers:** Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Female householder, no husband present - With own children under 18 years
+	- **Total single fathers:** Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Male householder, no wife present - With own children under 18 years
 
 11. To make this data easier to work with in Excel, **delete the other attributes in the spreadsheet**, keeping only those listed above **and those currently named “Id,” “Id2,”and “Geography.”** (Keeping or deleting attributes in the Excel chart will not affect our map, just our efficiency and peace of mind in Excel). Deleting a column is like deleting a row (see step 9): right-click the letter above the column and select “delete.”
 
