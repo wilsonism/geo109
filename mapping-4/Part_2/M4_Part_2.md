@@ -24,36 +24,34 @@ Be conscious of saving and storing your data, either on a thumbdrive, space you 
 
 ### Grading and Deliverables 
 
-The assignment is worth 50 points. Grading will be based on a Word document that you will upload to Canvas during Week 11. This document should include:
+The assignment is worth 50 points. Grading will be based on a Word document that you will upload to Canvas during Week 8. This document should include:
 
 1.  Your two exported maps (20 points),
 2.  Your responses to the questions in each part (30 points)
-
-**Due:** Consult the [syllabus schedule](../../syllabus.md#viii-schedule) for the due date of this assignment.
 
 **Note:** Tips for Working with Excel are listed after Step 10. I recommend reading them before getting started, but don’t get hung up on them if they don’t help you; they’re optional. **Do, however, save your work as you go along, and consider bringing a thumb drive to section.**
 
 ## Part 2. Downloading and Cleaning Census Data
 
-1. Go to http://factfinder2.census.gov. Click on “Advanced Search” in the blue bar at the top of the screen.
+1. Go to http://factfinder2.census.gov. Click on **_Advanced Search_** in the blue bar at the top of the screen.
 
 ![Image11](images/Image11.jpeg)
 
-2. Once the advanced search interface appears, click on “Geographies” along the left side of your screen.
+2. Once the advanced search interface appears, click on **_Geographies_** along the left side of your screen.
 
 ![Image21](images/Image21.jpeg)
 
-3. Under “select a geographic type,” choose “County – 50” and select the state of Kentucky. Select “All Counties within Kentucky” in the box below. Finally, click “add to your selections” and close the select geographies dialogue. You’ve now specified that you’re interested in county geographies, specifically those within the state of Kentucky. Close the window.
+3. Under **_select a geographic type:_** choose **_County – 050_** and select the state of **_Kentucky_**. Select **_All Counties within Kentucky_** in the box below. Finally, click **_add to your selections_** and close the select geographies dialogue. You’ve now specified that you’re interested in county geographies, specifically those within the state of Kentucky.
 
 ![Image31](images/Image31.jpeg)
 
-4. Use the “Show results from” drop-down menu in the upper right corner of the interface to limit the results of your query to data from 2010. Under the ‘available programs’ dropdown menu, select “Decennial Census.” As you know, the Census is decennial,meaning every ten years.
+4. Use the **_Show results from_** drop-down menu in the upper right corner of the interface to limit the results of your query to data from **_2010_**. Under the _available programs_ dropdown menu, select **_Decennial Census_**. As you know, the Census is decennial meaning every ten years.
 
 ![Image41](images/Image41.jpeg)
 
-5. Click on “Profile of General Population and Housing Characteristics: 2010” (based on the 2010 **SF1 100%** Data; see above). **_Do not check off the box to the left of this or your download will be different than shown here_**.
+5. Click on **_Profile of General Population and Housing Characteristics: 2010_** (based on the **2010 SF1 100% Data**; see above). **_Do not check off the box to the left of this or your download will be different than shown here_**.
 
-6. You now need to download the data. To do so, click the “Download” button.
+6. You now need to download the data. To do so, click the **_Download_** button.
 
 ![Image61](images/Image61.jpeg)
 
@@ -71,30 +69,32 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 
 ![Image81](images/Image81.jpeg)
 
-9. Open “DEC_10_SF1_SF1DP1_with_ann.CSV” (see screenshot below) in Microsoft Excel. Delete the top row by right-clicking the “1” in the upper-left corner of the spreadsheet and selecting “delete.”
+9. Open **_DEC_10_SF1_SF1DP1_with_ann.CSV_** (see screenshot below) in Microsoft Excel. Delete the top row by right-clicking the “1” in the upper-left corner of the spreadsheet and selecting “delete.”
 
 ![Image91](images/Image91.jpeg)
 
 ![Image92](images/Image92.jpeg)
 
-10. FactFinder has given us a huge amount of data, but we’re only interested in some of the attributes. In particular, we’re looking for data on each county’s **total population, median age, single fathers, and single mothers**. In the CSV files, these are the named as follows:
+10. Save your work as new CSV file called: YourLastName_M4Data.CSV (e.g.“Kaufman_M4Data.CSV”). If you are using Mac OS, **you must select Windows-compatible CSV from the drop-down menu below the prompt where you’ve entered the filename.** Save this file in a place where you can easily access it. You may want to **email it to yourself or save it to a USB thumb drive.**
+
+11. FactFinder has given us a huge amount of data, but we’re only interested in some of the attributes. In particular, we’re looking for data on each county’s **total population, median age, single fathers, and single mothers**. In the CSV files, these are the named as follows:
 
 	- **Total Population:** Number; SEX AND AGE - Total population
 	- **Median Age:** Number; SEX AND AGE - Total population - Median age (years)
 	- **Total single mothers:** Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Female householder, no husband present - With own children under 18 years
 	- **Total single fathers:** Number; HOUSEHOLDS BY TYPE - Total households - Family households (families) [7] - Male householder, no wife present - With own children under 18 years
 
-11. To make this data easier to work with in Excel, **delete the other attributes in the spreadsheet**, keeping only those listed above **and those currently named “Id,” “Id2,”and “Geography.”** (Keeping or deleting attributes in the Excel chart will not affect our map, just our efficiency and peace of mind in Excel). Deleting a column is like deleting a row (see step 9): right-click the letter above the column and select “delete.”
+12. To make this data easier to work with in Excel, **delete the other attributes in the spreadsheet**, keeping only those listed above **and those currently named “Id,” “Id2,”and “Geography.”** (Keeping or deleting attributes in the Excel chart will not affect our map, just our efficiency and peace of mind in Excel). Deleting a column is like deleting a row (see step 9): right-click the letter above the column and select “delete.”
 
 	- **Tip 1:** You can click and drag to highlight multiple columns for deletion at once. You can also use the “find” function (CTRL+F on PC, command+F on Mac) to find the columns you’re interested in more quickly.
 
 	![Image11_1](images/Image11_1.jpeg)
 
-	- **Tip 2:** You can also format the top row with the names to make them easier to find by selecting that row, clicking “Format Cells” then under the “Alignment” tab in the dialogue box that comes up, check the box next to “Wrap Text.” It will then look like theimage below:
+	- **Tip 2:** You can also format the top row with the names to make them easier to find by selecting that row, clicking “Format Cells” then under the “Alignment” tab in the dialogue box that comes up, check the box next to “Wrap Text.” It will then look like the image below:
 
 	![Image11_2](images/Image11_2.jpeg)
 
-	- **Tip 3:** You can also use the “find” function in Excel to find these columns: copy the column names listed above in step 10 and paste them into the “find” box. Make sure that no rows or columns are selected before you search, or it will only search in that row/column. Alternately, highlight the entire chart first.
+	- **Tip 3:** You can also use the “find” function in Excel to find these columns: copy the column names listed above in step 11 and paste them into the “find” box. Make sure that no rows or columns are selected before you search, or it will only search in that row/column. Alternately, highlight the entire chart first.
 
 	- **Tip 4:** Once you find the columns you are keeping, you might fill them in with a color to make sure you don’t accidentally delete them.
 
@@ -102,23 +102,21 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 
 	- **Tip 5:** Save your work as you go!!!
 
-12. Rename the remaining seven attributes “ID,” “GEOID,” “LABEL,” “TOTPOP,” “MEDAGE,” “SINGDADS,” and “SINGMOMS.” Your spreadsheet should now looklike the screenshot below.
+13. Rename the remaining seven attributes **_“ID,” “GEOID,” “LABEL,” “TOTPOP,” “MEDAGE,” “SINGDADS,” and “SINGMOMS.”_** Your spreadsheet should now looklike the screenshot below.
 
 ![Image12_1](images/Image12_1.jpeg)
 
-13. Remove all formatting from the file by selecting every cell in the spreadsheet (CTRL-A on PC, Command+A on Mac), clicking the “Home” tab up top, and using the clear button (represented by an eraser) to “Clear formats.” You won’t see any changes, but this makes the data more readable by QGIS.
+14. Remove all formatting from the file by selecting every cell in the spreadsheet (CTRL-A on PC, Command+A on Mac), clicking the _Home_ tab up top, and using the clear button (represented by an eraser) to **_Clear formats_**. You won’t see any changes, but this makes the data more readable by QGIS.
 
 ![Image13_1](images/Image13_1.jpeg)
 
-14. Format the attribute you’ve renamed “GEOID” as a **text field** – to do so, right click the GEOID column, select “Format Cells,” and select “Text.” Click OK.
+15. Format the attribute you’ve renamed “GEOID” as a **text field** – to do so, right click the GEOID column, select “Format Cells,” and select “Text.” Click OK.
 
 ![Image14_1](images/Image14_1.jpeg)
 
-15. Format the “TOTPOP,” “MEDAGE,” “SINGDADS,” and “SINGMOMS,” attributes as **number fields** – to do so, select and right-click all the appropriate columns, select "Format Cells,” and select “Number.” You can leave the default setting; click OK.
+16. Format the “TOTPOP,” “MEDAGE,” “SINGDADS,” and “SINGMOMS,” attributes as **number fields** – to do so, select and right-click all the appropriate columns, select "Format Cells,” and select “Number.” You can leave the default setting; click OK. **Save your work!**
 
 ![Image15_1](images/Image15_1.jpeg)
-
-16. Save your work as new CSV file called: YourLastName_M4Data.CSV (e.g.“Kaufman_M4Data.CSV”). If you are using Mac OS, **you must select Windows-compatible CSV from the drop-down menu below the prompt where you’ve entered the filename.** Save this file in a place where you can easily access it. You may want to **email it to yourself or save it to a USB thumb drive.**
 
 ### Part 2 Questions
 

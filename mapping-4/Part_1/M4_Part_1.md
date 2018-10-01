@@ -22,21 +22,18 @@ You will receive points in section for having these parts done. Be conscious of 
 
 ### Grading and Deliverables 
 
-The assignment is worth 50 points. Grading will be based on a Word document that you will upload to Canvas during Week 11. This document should include:
+The assignment is worth 50 points. Grading will be based on a Word document that you will upload to Canvas during Week 8. This document should include:
 
 1. Your two exported maps (20 points),
-
 2. Your responses to the questions in each part (30 points)
-
-**Due:** Consult the [syllabus schedule](../../syllabus.md#viii-schedule) for the due date of this assignment.
 
 ## Part 1. Importing Geospatial Data
 
-1. Now that you’ve successfully installed QGIS, it’s time to download some geospatial data. Navigate to http://census.gov/cgi-bin/geo/shapefiles2010/main. Under “Select a layertype,” choose “Counties (and equivalent)” and click submit.
+1. Now that you’ve successfully installed QGIS, it’s time to download some geospatial data. Navigate to http://census.gov/cgi-bin/geo/shapefiles2010/main. Under **_Select a layer type_** choose **_Counties (and equivalent)_** and click submit.
 
 ![Image11](images/Image11.jpeg)
 
-2. Under the 2010 dropdown menu (not the 2000 menu below), select Kentucky and click Download.
+2. Under the **_2010_** dropdown menu (not the 2000 menu below), select **_Kentucky_** and click Download.
 
 ![Image21](images/Image21.jpeg)
 
@@ -48,7 +45,7 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 
 4. Open QGIS. The interface should look familiar after learning ArcGIS. The two platforms are fairly similar and ‘think’ in the same way (mostly).
 
-5. Click “Add Vector Layer” on the left side of the screen. In the Add Vector Layer dialogue box, click the “Browse” button to locate your shapefile.
+5. Click **_Add Vector Layer_** on the left side of the screen. In the Add Vector Layer dialogue box, click the **_Browse_** button to locate your shapefile.
 
     * If you're using QGIS 3.2 and cannot see this sidebar, click View > Toolbars > Manage Layers Toolbar.
 
@@ -72,7 +69,7 @@ Congratulations! You’ve just made a map in QGIS! Your shapefile should now be 
 
 ### Part 1 Questions
 
-Respond to each of the following questions. Make sure you provide evidence for your claims, in 150 to 300 words for question 1. For question 2 you can also provide an explanation of how you came up with your percentage.
+Respond to each of the following questions. Make sure you provide evidence for your claims, in 150 to 300 words for question 1. For question 2, you can also provide an explanation of how you came up with your percentage.
 
 1. What does it mean to say that QGIS is free and open-source software (FOSS)? What are the implications for ‘expert’ cartography and access to mapmaking technology? Do some research and **cite your sources**.
 

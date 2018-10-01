@@ -31,7 +31,7 @@ Be conscious of saving and storing your data, either on a thumbdrive, space you 
 
 ## If using Microsoft Windows…
 
-1. Determine if you are a running 32- or 62- bit version of Windows by pressing WIN+X (windows key plus X) and selecting “system.”
+1. Determine if you are a running 32- or 64- bit version of Windows by pressing WIN+X (windows key plus X) and selecting “system.”
 
 ![Image11](images/Image11.jpeg)
 
