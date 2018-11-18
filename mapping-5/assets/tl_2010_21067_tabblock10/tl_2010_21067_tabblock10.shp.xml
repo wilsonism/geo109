@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <metadata>
-	<idinfo>
-		<citation>
-			<citeinfo>
-				<origin>U.S. Department of Commerce, U.S. Census Bureau, Geography Division</origin>
-				<pubdate>2010</pubdate>
-				<title>TIGER/Line Shapefile, 2010, 2010 state, Kentucky, 2010 Census County and Equivalent State-based</title>
-				<edition>2010</edition>
-				<geoform>vector digital data</geoform>
-				<onlink>http://www.census.gov/geo/www/tiger</onlink>
-			</citeinfo>
-		</citation>
-		<descript>
-			<abstract>The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  The primary legal divisions of most States are termed counties.  In Louisiana, these divisions are known as parishes.  In Alaska, which has no counties, the equivalent entities are the organized boroughs, city and boroughs, and municipalities, and for the unorganized area, census areas.  The latter are delineated cooperatively for statistical purposes by the State of Alaska and the Census Bureau.  In four States (Maryland, Missouri, Nevada, and Virginia), there are one or more incorporated places that are independent of any county organization and thus constitute primary divisions of their States.  These incorporated places are known as independent cities and are treated as equivalent entities for purposes of data presentation.  The District of Columbia and Guam have no primary divisions, and each area is considered an equivalent entity for purposes of data presentation.  The Census Bureau treats the following entities as equivalents of counties for purposes of data presentation: Municipios in Puerto Rico, Districts and Islands in American Samoa, Municipalities in the Commonwealth of the Northern Mariana Islands, and Islands in the U.S. Virgin Islands.  The entire area of the United States, Puerto Rico, and the Island Areas is covered by counties or equivalent entities.  The 2010 Census boundaries for counties and equivalent entities are as of January 1, 2010, primarily as reported through the Census Bureau's Boundary and Annexation Survey (BAS).  
+   <idinfo>
+      <citation>
+         <citeinfo>
+	    <origin>U.S. Department of Commerce, U.S. Census Bureau, Geography 
+                    Division</origin>
+	       <pubdate>2010</pubdate>
+	       <title>TIGER/Line Shapefile, 2010, 2010 county, Fayette County, KY, 2010 Census  Block County-based</title>
+	       <edition>2010</edition>
+	       <geoform>vector digital data</geoform>
+	       <onlink>http://www2.census.gov/geo/tiger/TIGER2010/TABBLOCK10/tl_2010_21067_tabblock10.zip</onlink>
+	 </citeinfo>
+      </citation>
+	   <descript>
+	       <abstract>The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  Census Blocks are statistical areas bounded on all sides by visible features, such as streets, roads, streams, and railroad tracks, and/or by nonvisible boundaries such as city, town, township, and county limits, and short line-of-sight extensions of streets and roads.  Census blocks are relatively small in area; for example, a block in a city bounded by streets.  However, census blocks in remote areas are often large and irregular and may even be many square miles in area.  A common misunderstanding is that data users think census blocks are used geographically to build all other census geographic areas, rather all other census geographic areas are updated and then used as the primary constraints, along with roads and water features, to delineate the tabulation blocks.  As a result, all 2010 Census blocks nest within every other 2010 Census geographic area, so that Census Bureau statistical data can be tabulated at the block level and aggregated up to the appropriate geographic areas.  Census blocks cover all territory in the United States, Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands).  Blocks are the smallest geographic areas for which the Census Bureau publishes data from the decennial census.  A block may consist of one or more faces.  
 </abstract>
-			<purpose>In order for others to use the information in the Census MAF/TIGER database in a geographic information system (GIS) or for other geographic applications, the Census Bureau releases to the public extracts of the database in the form of TIGER/Line Shapefiles.</purpose>
-			<Subject_Entity>Kentucky(21)</Subject_Entity>
-		</descript>
+	       <purpose>In order for others to use the information in the Census MAF/TIGER database in a geographic information system (GIS) or for other geographic applications, the Census Bureau releases to the public extracts of the database in the form of TIGER/Line Shapefiles.</purpose>
+	       <Subject_Entity>Fayette, KY, (21067)</Subject_Entity>
+	   </descript>
 		<timeperd>
 			<timeinfo>
 				<rngdates>
-					<begdate>201001</begdate>
-					<enddate>201007</enddate>
+					<begdate>201103</begdate>
+					<enddate>201112</enddate>
 				</rngdates>
 			</timeinfo>
 			<current>Publication Date</current>
@@ -32,10 +33,10 @@
 		</status>
 		<spdom>
 			<bounding>
-				<westbc>-89.571203</westbc>
-				<eastbc>-81.964788</eastbc>
-				<northbc>39.147732</northbc>
-				<southbc>36.497058</southbc>
+				<westbc>-84.660135</westbc>
+				<eastbc>-84.282629</eastbc>
+				<northbc>38.211449</northbc>
+				<southbc>37.845261</southbc>
 			</bounding>
 		</spdom>
 		<keywords>
@@ -46,17 +47,21 @@
 			<theme>
 				<themekt>None</themekt>
 				
-				<themekey>State or equivalent entity</themekey>
+				<themekey>County or equivalent entity</themekey>
 				<themekey>Polygon</themekey>
+				<themekey>Block</themekey>
+				<themekey>Census Block</themekey>
 			</theme>
 			<place>
-				<placekt>INCITS.38-200x (R2004),INCITS.31-200x (R2007),INCITS.454-200x,INCITS 455-200x,INCITS 446-2008</placekt>
-				<placekey>United States</placekey>
+			   <placekt>ANSI INCITS 38:2009 (Formerly FIPS 5-2), 
+                              ANSI INCITS 31:2009 (Formerly FIPS 6-4),ANSI 
+                              INCITS 454:2009 (Formerly FIPS 8-6), ANSI INCITS 
+                              455:2009(Formerly FIPS 9-1), ANSI INCITS 446:2008                           (Geographic Names Information System (GNIS))</placekt>
+			   <placekey>United States</placekey>
 				<placekey>U.S.</placekey>
-				<placekey>State or Equivalent Entity</placekey>
-				<placekey>Kentucky</placekey>
-				<placekey>KY</placekey>
-				<placekey>21</placekey>	
+				<placekey>County or Equivalent Entity</placekey>
+				<placekey>Fayette</placekey>
+				<placekey>21067</placekey>	
 			</place>
 		</keywords>
 		<accconst>None</accconst>
@@ -64,13 +69,14 @@
 The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.</useconst>
 		<Title_13_Restrictions>Yes, the data are free from Title 13 restrictions</Title_13_Restrictions>
 		<ptcontac>
-			<cntinfo>
-				<cntorgp>
-					<cntorg>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch</cntorg>
-				</cntorgp>
-				<cntaddr>
-					<addrtype>Mailing address</addrtype>
-					<address>4600 Silver Hill Road, Stop 7400</address>
+		 <cntinfo>
+		  <cntorgp>
+		   <cntorg>U.S. Department of Commerce, U.S. Census Bureau, 
+                         Geography Division, Geographic Products Branch</cntorg>
+			</cntorgp>
+			<cntaddr>
+			<addrtype>Mailing address</addrtype>
+			<address>4600 Silver Hill Road, Stop 7400</address>
 					<city>Washington</city>
 					<state>DC</state>
 					<postal>20233-7400</postal>
@@ -97,16 +103,16 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 				<srccite>
 					<citeinfo>
 						<origin>U.S. Department of Commerce, U.S. Census Bureau, Geography Division</origin>
-						<pubdate>Unpublished material</pubdate>
-						<title>Census MAF/TIGER database</title>
+					<pubdate>Unpublished material</pubdate>
+					<title>Census MAF/TIGER database</title>
 					</citeinfo>
 				</srccite>
 				<typesrc>online</typesrc>
 				<srctime>
 					<timeinfo>
 						<rngdates>
-							<begdate>201001</begdate>
-							<enddate>201007</enddate>
+						<begdate>201103</begdate>
+						<enddate>201112</enddate>
 						</rngdates>
 					</timeinfo>
 					<srccurr>Publication Date</srccurr>
@@ -127,7 +133,7 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 		<ptvctinf>
 			<sdtsterm>
 				<sdtstype>G-polygon</sdtstype>
-				<ptvctcnt>120</ptvctcnt>
+				<ptvctcnt>4151</ptvctcnt>
 			</sdtsterm>
 		</ptvctinf>
 	</spdoinfo>
@@ -149,199 +155,78 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 	<eainfo>
     <detailed>
       <enttyp>
-        <enttypl>COUNTY10.shp</enttypl>
-        <enttypd>2010 Census County and Equivalent State-based</enttypd>
+        <enttypl>TABBLOCK10.shp</enttypl>
+        <enttypd>2010 Census Block County-based</enttypd>
         <enttypds>U.S. Census Bureau</enttypds>
       </enttyp>
       <attr>
         <attrlabl>STATEFP10</attrlabl>
-        <attrdef>2010 Census state Federal Information Processing Standards
-                 (FIPS) codes</attrdef>
+        <attrdef>2010 Census state Federal Information Processing Standards (FIPS) codes</attrdef>
         <attrdefs>U.S. Census Bureau</attrdefs>
         <attrdomv>
           <codesetd>
-            <codesetn>INCITS.38-200x (R2004), Codes for the Identification of
-                      the States, the District of Columbia, Puerto Rico, and the
-                      Insular Areas of the United States (Formerly FIPS 5-2)</codesetn>
+            <codesetn>INCITS.38-200x (R2004), Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 5-2)</codesetn>
             <codesets>U.S. Census Bureau</codesets>
           </codesetd>
         </attrdomv>
       </attr>
       <attr>
         <attrlabl>COUNTYFP10</attrlabl>
-        <attrdef>2010 Census county Federal Information Processing Standards
-                 (FIPS) code</attrdef>
+        <attrdef>2010 Census county Federal Information Processing Standards (FIPS) code</attrdef>
         <attrdefs>U.S. Census Bureau</attrdefs>
         <attrdomv>
           <codesetd>
-            <codesetn>INCITS.31-200x (R2007), Codes for the Identification of
-                      the Counties and Equivalent Areas of the United States,
-                      Puerto Rico, and the Insular Areas of the United States
-                      (Formerly FIPS 6-4)</codesetn>
+            <codesetn>INCITS.31-200x (R2007), Codes for the Identification of the Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 6-4)</codesetn>
             <codesets>U.S. Census Bureau</codesets>
           </codesetd>
         </attrdomv>
       </attr>
       <attr>
-        <attrlabl>COUNTYNS10</attrlabl>
-        <attrdef>2010 Census county ANSI code</attrdef>
+        <attrlabl>TRACTCE10</attrlabl>
+        <attrdef>2010 Census census tract code</attrdef>
         <attrdefs>U.S. Census Bureau</attrdefs>
         <attrdomv>
-          <codesetd>
-            <codesetn>INCITS 446-2008, (GNIS) Identifying Attributes for Named
-                      Physical and Cultural Geographic Features (Except Roads
-                      and Highways) of the United States, Its Territories,
-                      Outlying Areas, and Freely Associated Areas, and the
-                      Waters of the Same to the Limit of the Twelve-Mile
-                      Statutory Zone</codesetn>
-            <codesets>U.S. Geological Survey (USGS)</codesets>
-          </codesetd>
+          <edom>
+            <edomv>000000</edomv>
+            <edomvd>Water tract in some coastal and Great Lakes water and territorial sea</edomvd>
+            <edomvds>U.S. Census</edomvds>
+          </edom>
+          <edom>
+            <edomv>000100 to 998999</edomv>
+            <edomvd>Census tract number</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BLOCKCE10</attrlabl>
+        <attrdef>2010 Census tabulation block number</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0001 to 9999</edomv>
+            <edomvd>tabulation block number</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
         </attrdomv>
       </attr>
       <attr>
         <attrlabl>GEOID10</attrlabl>
-        <attrdef>County identifier; a concatenation of 2010 Census state FIPS
-                 code and county FIPS code</attrdef>
+        <attrdef>Block identifier; a concatenation of 2010 Census state FIPS code, county FIPS code, census tract code, and tabulation block number</attrdef>
         <attrdefs>U.S. Census Bureau</attrdefs>
         <attrdomv>
           <codesetd>
-            <codesetn>INCITS.38-200x (R2004), Codes for the Identification of
-                      the States, the District of Columbia, Puerto Rico, and the
-                      Insular Areas of the United States (Formerly FIPS 5-2),
-                      INCITS.31-200x (R2007), Codes for the Identification of
-                      the Counties and Equivalent Areas of the United States,
-                      Puerto Rico, and the Insular Areas of the United States
-                      (Formerly FIPS 6-4)</codesetn>
+            <codesetn>INCITS.38-200x (R2004), Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 5-2), INCITS.31-200x (R2007), Codes for the Identification of the Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 6-4), and the tract code that appears in TRACTCE10 and the tabulation block number that appears in BLOCKCE10</codesetn>
             <codesets>U.S. Census Bureau</codesets>
           </codesetd>
         </attrdomv>
       </attr>
       <attr>
         <attrlabl>NAME10</attrlabl>
-        <attrdef>2010 Census county name</attrdef>
+        <attrdef>2010 Census tabulation block name; a concatenation of 'Block', and the current tabulation block number</attrdef>
         <attrdefs>U.S. Census Bureau</attrdefs>
         <attrdomv>
-          <codesetd>
-            <codesetn>INCITS.31-200x (R2007), Codes for the Identification of
-                      the Counties and Equivalent Areas of the United States,
-                      Puerto Rico, and the Insular Areas of the United States
-                      (Formerly FIPS 6-4)</codesetn>
-            <codesets>U.S. Census Bureau</codesets>
-          </codesetd>
-        </attrdomv>
-      </attr>
-      <attr>
-        <attrlabl>NAMELSAD10</attrlabl>
-        <attrdef>2010 Census name and the translated legal/statistical area
-                 description code for county</attrdef>
-        <attrdefs>U.S. Census Bureau</attrdefs>
-        <attrdomv>
-          <codesetd>
-            <codesetn>INCITS.31-200x (R2007), Codes for the Identification of
-                      the Counties and Equivalent Areas of the United States,
-                      Puerto Rico, and the Insular Areas of the United States
-                      (Formerly FIPS 6-4) and the translated legal/statistical
-                      area description code for county that appears in LSAD10</codesetn>
-            <codesets>U.S. Census Bureau</codesets>
-          </codesetd>
-        </attrdomv>
-      </attr>
-      <attr>
-        <attrlabl>LSAD10</attrlabl>
-        <attrdef>2010 Census legal/statistical area description code for county</attrdef>
-        <attrdefs>U.S. Census Bureau</attrdefs>
-        <attrdomv>
-          <edom>
-            <edomv>00</edomv>
-            <edomvd>Blank</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>03</edomv>
-            <edomvd>City and Borough</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>04</edomv>
-            <edomvd>Borough</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>05</edomv>
-            <edomvd>Census Area</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>06</edomv>
-            <edomvd>County</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>07</edomv>
-            <edomvd>District</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>10</edomv>
-            <edomvd>Island</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>12</edomv>
-            <edomvd>Municipality</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>13</edomv>
-            <edomvd>Municipio</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>15</edomv>
-            <edomvd>Parish</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>25</edomv>
-            <edomvd>city</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-        </attrdomv>
-      </attr>
-      <attr>
-        <attrlabl>CLASSFP10</attrlabl>
-        <attrdef>2010 Census Federal Information Processing Standards (FIPS)
-                 class code</attrdef>
-        <attrdefs>U.S. Census Bureau</attrdefs>
-        <attrdomv>
-          <edom>
-            <edomv>C7</edomv>
-            <edomvd>An incorporated place that is independent of any county</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>H1</edomv>
-            <edomvd>An active county or equivalent feature</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>H4</edomv>
-            <edomvd>An inactive county or equivalent feature</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>H5</edomv>
-            <edomvd>A statistical county equivalent feature</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>H6</edomv>
-            <edomvd>A county that is coextensive with an incorporated place,
-                    part of an incorporated place, or a consolidated city and
-                    the governmental functions of the county are part of the
-                    municipal govenment</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
+          <udom>Refer to the tabulation block number that appears in BLOCKCE10</udom>
         </attrdomv>
       </attr>
       <attr>
@@ -350,44 +235,66 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
         <attrdefs>U.S. Census Bureau</attrdefs>
         <attrdomv>
           <edom>
-            <edomv>G4020</edomv>
-            <edomvd>County or Equivalent Feature</edomvd>
+            <edomv>G5040</edomv>
+            <edomvd>Tabulation Block</edomvd>
             <edomvds>U.S. Census Bureau</edomvds>
           </edom>
         </attrdomv>
       </attr>
       <attr>
-        <attrlabl>CSAFP10</attrlabl>
-        <attrdef>2010 Census combined statistical area code</attrdef>
+        <attrlabl>UR10</attrlabl>
+        <attrdef>2010 Census urban/rural indicator</attrdef>
         <attrdefs>U.S. Census Bureau</attrdefs>
         <attrdomv>
-          <rdom>
-            <rdommin>100</rdommin>
-            <rdommax>599</rdommax>
-          </rdom>
+          <edom>
+            <edomv>M</edomv>
+            <edomvd>Mixed - part of the land area is classified as urban and part is classified as rural</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>Not Applicable (water-only and international areas)</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>R</edomv>
+            <edomvd>Area is classified as rural</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>U</edomv>
+            <edomvd>Area is classified as urban</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
         </attrdomv>
       </attr>
       <attr>
-        <attrlabl>CBSAFP10</attrlabl>
-        <attrdef>2010 Census metropolitan statistical area/micropolitan
-                 statistical area code</attrdef>
+        <attrlabl>UACE10</attrlabl>
+        <attrdef>2010 Census urban area code</attrdef>
         <attrdefs>U.S. Census Bureau</attrdefs>
         <attrdomv>
-          <rdom>
-            <rdommin>10000</rdommin>
-            <rdommax>49999</rdommax>
-          </rdom>
+          <edom>
+            <edomv>00001 to 98999</edomv>
+            <edomvd>Urban Area Code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
         </attrdomv>
       </attr>
       <attr>
-        <attrlabl>METDIVFP10</attrlabl>
-        <attrdef>2010 Census metropolitan division code</attrdef>
+        <attrlabl>UATYP10</attrlabl>
+        <attrdef>2010 Census urban area type</attrdef>
         <attrdefs>U.S. Census Bureau</attrdefs>
         <attrdomv>
-          <rdom>
-            <rdommin>10004</rdommin>
-            <rdommax>49994</rdommax>
-          </rdom>
+          <edom>
+            <edomv>U</edomv>
+            <edomvd>Urbanized Area (suffix)</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>C</edomv>
+            <edomvd>Urban Cluster (suffix)</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
         </attrdomv>
       </attr>
       <attr>
@@ -395,41 +302,6 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
         <attrdef>2010 Census functional status</attrdef>
         <attrdefs>U.S. Census Bureau</attrdefs>
         <attrdomv>
-          <edom>
-            <edomv>A</edomv>
-            <edomvd>Active government providing primary general-purpose functions</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>B</edomv>
-            <edomvd>Active government that is partially consolidated with
-                    another government but with separate officials providing
-                    primary general-purpose functions</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>C</edomv>
-            <edomvd>Active government consolidated with another government with
-                    a single set of officials</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>F</edomv>
-            <edomvd>Fictitious entity created to fill the Census Bureau
-                    geographic hierarchy</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>G</edomv>
-            <edomvd>Active government that is subordinate to another unit of
-                    government</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
-          <edom>
-            <edomv>N</edomv>
-            <edomvd>Nonfunctioning legal entity</edomvd>
-            <edomvds>U.S. Census Bureau</edomvds>
-          </edom>
           <edom>
             <edomv>S</edomv>
             <edomvd>Statistical entity</edomvd>
@@ -492,10 +364,10 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 			<cntinfo>
 				<cntorgp>
 					<cntorg>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch</cntorg>
-				</cntorgp>
-				<cntaddr>
-					<addrtype>Mailing address</addrtype>
-					<address>4600 Silver Hill Road, Stop 7400</address>
+			</cntorgp>
+			<cntaddr>
+			    <addrtype>Mailing address</addrtype>
+	 		    <address>4600 Silver Hill Road, Stop 7400</address>
 					<city>Washington</city>
 					<state>DC</state>
 					<postal>20233-7400</postal>
@@ -507,8 +379,8 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 			</cntinfo>
 		</distrib>
 		<distliab>No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files.  The boundary information in the TIGER/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.</distliab>
-		<stdorder>
-			<digform>
+	   <stdorder>
+	     <digform>
 				<digtinfo>
 					<formname>TGRSHP (compressed)</formname>
 					<filedec>PK-ZIP, version 1.93 A or higher</filedec>
@@ -516,9 +388,9 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 				<digtopt>
 					<onlinopt>
 						<computer>
-							<networka>
-								<networkr>http://www.census.gov/geo/www/tiger</networkr>
-							</networka>
+						  <networka>
+						<networkr>http://www2.census.gov/geo/tiger/TIGER2010/TABBLOCK10/tl_2010_21067_tabblock10.zip</networkr>
+						  </networka>
 						</computer>
 					</onlinopt>
 					<offoptn>
@@ -533,7 +405,7 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 		<techpreq>The TIGER/Line shapefiles contain geographic data only and do not include display mapping software or statistical data.  For information on how to use the TIGER/Line shapefile data with specific software package users shall contact the company that produced the software.</techpreq>
 	</distinfo>
 	<metainfo>
-		<metd>20100507</metd>
+		<metd>20110507</metd>
 		<metc>
 			<cntinfo>
 				<cntorgp>
@@ -555,7 +427,7 @@ For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polyg
 		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
 		<metstdv>FGDC-STD-001-1998</metstdv>
 		<Metadata_Character_Set>8859part1</Metadata_Character_Set>
-		<Metadata_File_Identifier>tl_2010_21_county10.shp.xml</Metadata_File_Identifier>
+		<Metadata_File_Identifier>tl_2010_21067_tabblock10.shp.xml</Metadata_File_Identifier>
 		<Metadata_Language>eng</Metadata_Language>
 	</metainfo>
 </metadata>
