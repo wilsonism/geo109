@@ -11,6 +11,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
     <!-- remove below CSS3 with custom CSS3-->
     <link href="css/impress-demo.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
     <link rel="shortcut icon" href="img/favicon.png" />
     <link rel="apple-touch-icon" href="img/apple-touch-icon.png" />
 </head>
@@ -42,9 +43,17 @@
                 <li><a href="final-project/finalProject_2018FA_v7_mw.pdf" target="_blank">Final Project</a></li>
             </ul>
         </div>
-        <div id="bio" class="step" data-x="-7000" data-y="1000" data-z="-2000" data-rotate-x="-180" data-rotate-y="180" data-scale="4">
+        <div id="bio" class="step slide" data-x="-7000" data-y="1000" data-z="-2000" data-rotate-x="-180" data-rotate-y="180" data-scale="4">
             <h2>About Me</h2>
-            <p><b>Matthew W. Wilson</b>, PhD, is Associate Professor of Geography at the University of Kentucky and Visiting Scholar at the Center for Geographic Analysis at Harvard University. He co-founded and co-directs the New Mappings Collaboratory which studies and facilitates new engagements with geographic representation. He is co-editor of <a href="https://uk.sagepub.com/en-gb/eur/understanding-spatial-media/book245915">Understanding Spatial Media</a> (SAGE), and his most recent book is <a href="https://www.upress.umn.edu/book-division/books/new-lines">New Lines: Critical GIS and the Trouble of the Map</a> (University of Minnesota Press). He has previously taught at Ball State University and the Harvard Graduate School of Design, and his current research examines mid-20th century, digital mapping practices. He earned his PhD and MA from the University of Washington and his BS from Northwest Missouri State University. His childhood was spent in Pumpkin Center, Missouri, a small farming community in Nodaway County, where his family has farmed for over 150 years.</p>
+            <button id="myBtn">Matthew W. Wilson</button>
+            <div id="myModal" class="modal">
+                <!-- Modal content -->
+                <div class="modal-content">
+                    <span class="close">&times;</span>
+                    <p><b>Matthew W. Wilson</b>, PhD, is Associate Professor of Geography at the University of Kentucky and Visiting Scholar at the Center for Geographic Analysis at Harvard University. He co-founded and co-directs the New Mappings Collaboratory which studies and facilitates new engagements with geographic representation. He is co-editor of <a href="https://uk.sagepub.com/en-gb/eur/understanding-spatial-media/book245915">Understanding Spatial Media</a> (SAGE), and his most recent book is <a href="https://www.upress.umn.edu/book-division/books/new-lines">New Lines: Critical GIS and the Trouble of the Map</a> (University of Minnesota Press). He has previously taught at Ball State University and the Harvard Graduate School of Design, and his current research examines mid-20th century, digital mapping practices. He earned his PhD and MA from the University of Washington and his BS from Northwest Missouri State University. His childhood was spent in Pumpkin Center, Missouri, a small farming community in Nodaway County, where his family has farmed for over 150 years.
+                    </p>
+                </div>
+            </div>
         </div>
         <div id="mapping1" class="step" data-x="-5000" data-y="-5000" data-z="-4000" data-rotate-x="-180" data-rotate-y="180" data-scale="2">
             <h2>Mapping 1: Celebrity Mapping</h2>
@@ -91,7 +100,6 @@
             </ul>
         </div>
     </div>
-    
     <script>
     if ("ontouchstart" in document.documentElement) {
         document.querySelector(".hint").innerHTML = "<p>Swipe left or right to navigate</p>";
@@ -100,6 +108,33 @@
     <script src="js/impress.js"></script>
     <script>
     impress().init();
+    </script>
+    <script>
+    // Get the modal
+    var modal = document.getElementById('myModal');
+
+    // Get the button that opens the modal
+    var btn = document.getElementById("myBtn");
+
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close")[0];
+
+    // When the user clicks on the button, open the modal 
+    btn.onclick = function() {
+        modal.style.display = "block";
+    }
+
+    // When the user clicks on <span> (x), close the modal
+    span.onclick = function() {
+        modal.style.display = "none";
+    }
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }
     </script>
 </body>
 
