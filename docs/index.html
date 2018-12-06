@@ -31,9 +31,9 @@
             <br>
             <span class="footnote">use arrow keys or swipe to navigate</span>
         </div>
-        <div id="toc" class="step" data-x="4000" data-y="1000" data-z="-2000" data-rotate-x="-180" data-rotate-y="180" data-scale="4">
+        <div id="toc" class="step slide toc-img" data-x="4000" data-y="1000" data-z="-2000" data-rotate-x="-180" data-rotate-y="180" data-scale="4">
             <ul>
-                <li><a href="#bio">Introduction</a></li>
+                <li><a href="#intro">Introduction</a></li>
                 <li><a href="#syllabus">Syllabus</a></li>
                 <li><a href="fall_2018_lab_sched.pdf" target="_blank">Lab Schedule</a></li>
                 <li><a href="#mapping1">Mapping 1</a></li>
@@ -43,7 +43,11 @@
                 <li><a href="final-project/finalProject_2018FA_v7_mw.pdf" target="_blank">Final Project</a></li>
             </ul>
         </div>
-        <div id="bio" class="step slide" data-x="-7000" data-y="1000" data-z="-2000" data-rotate-x="-180" data-rotate-y="180" data-scale="4">
+        <div id="intro" class="step slide intro-img" data-x="-7000" data-y="1000" data-z="-2000" data-rotate-x="-180" data-rotate-y="180" data-scale="4">
+            <h2>Introduction</h2>
+            <hr>
+            <p>Mapping has been considered both an art and a science, as part of artistic, communicative, and analytical processes in the geographical tradition. This course will serve as an introduction to the concepts, techniques, and histories that enable mapping as a creative and artistic practice, with particular attention to the digital. Additionally, the course will introduce principles in cartographic design, geovisualization methods for digital data, and digital map evaluation and critique, culminating in a series of maps created by students.</p>
+            <br>
             <h2>About Me</h2>
             <button id="myBtn">Matthew W. Wilson</button>
             <div id="myModal" class="modal">
@@ -55,16 +59,17 @@
                 </div>
             </div>
         </div>
-        <div id="mapping1" class="step" data-x="-5000" data-y="-5000" data-z="-4000" data-rotate-x="-180" data-rotate-y="180" data-scale="2">
+        <div id="mapping1" class="step slide mapping1-img" data-x="-5000" data-y="-2500" data-z="-4000" data-rotate-x="-180" data-rotate-y="180" data-scale="2">
             <h2>Mapping 1: Celebrity Mapping</h2>
-            <p>In this first of four mapping assignments before your final project, you will explore the opportunities of collaborative digital mapmaking. You will use the following technologies:</p>
+            <hr>
+            <p>In this first of four mapping assignments before your final project, you will explore the opportunities of collaborative digital mapmaking. You will use the following technologies:</p><br>
             <ul>
-                <li><a href="https://www.google.com/mymaps" target="_blank">Google MyMaps</a></li>
-                <li><a href="https://en.wikipedia.org/wiki/Keyhole_Markup_Language" target="_blank">Keyhole Markup Language (KML)</a></li>
+                <li><a href="https://www.google.com/mymaps" target="_blank">Google MyMaps</a></li><br>
+                <li><a href="https://en.wikipedia.org/wiki/Keyhole_Markup_Language" target="_blank">Keyhole Markup Language (KML)</a></li><br>
             </ul>
             <p>Follow the instructions, <a href="#">here</a>.</p>
         </div>
-        <div id="mapping2" class="step" data-x="-2000" data-y="-4500" data-z="-4000" data-rotate-x="-180" data-rotate-y="180" data-scale="2">
+        <div id="mapping2" class="step slide mapping2-img" data-x="-2000" data-y="-3500" data-z="-4000" data-rotate-x="-180" data-rotate-y="180" data-scale="2">
             <h2>Mapping 2: Introduction to ArcGIS</h2>
             <p>In this second of four mapping assignments before your final project, you will explore the opportunities of digital mapmaking using a desktop geographic information system. You will use the following technologies:</p>
             <ul>
@@ -74,7 +79,7 @@
             </ul>
             <p>Follow the instructions, <a href="#">here</a>.</p>
         </div>
-        <div id="mapping3" class="step" data-x="1000" data-y="-4000" data-z="-4000" data-rotate-x="-180" data-rotate-y="180" data-scale="2">
+        <div id="mapping3" class="step slide mapping3-img" data-x="1000" data-y="-4000" data-z="-4000" data-rotate-x="-180" data-rotate-y="180" data-scale="2">
             <h2>Mapping 3: Official Data Stories</h2>
             <p>In this third of four mapping assignments before your final project, you will explore the aesthetic dimensions of telling stories with spatial data. You will use the following technologies:</p>
             <ul>
@@ -83,7 +88,7 @@
             </ul>
             <p>Follow the instructions, <a href="#">here</a>.</p>
         </div>
-        <div id="mapping4" class="step" data-x="4000" data-y="-3000" data-z="-4000" data-rotate-x="-180" data-rotate-y="180" data-scale="2">
+        <div id="mapping4" class="step slide mapping4-img" data-x="4000" data-y="-3000" data-z="-4000" data-rotate-x="-180" data-rotate-y="180" data-scale="2">
             <h2>Mapping 4: Introduction to QGIS</h2>
             <p>In this fourth mapping assignment, you will explore a workflow that many professional cartographers and GIScientists utilize. This is a rehearsal for the final project. You will use the following technologies and data sources:</p>
             <ul>
@@ -100,16 +105,9 @@
             </ul>
         </div>
     </div>
-    <script>
-    if ("ontouchstart" in document.documentElement) {
-        document.querySelector(".hint").innerHTML = "<p>Swipe left or right to navigate</p>";
-    }
-    </script>
     <script src="js/impress.js"></script>
     <script>
     impress().init();
-    </script>
-    <script>
     // Get the modal
     var modal = document.getElementById('myModal');
 

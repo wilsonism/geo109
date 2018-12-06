@@ -35,3 +35,31 @@
     text-decoration: none;
     cursor: pointer;
 }
+
+.slide {
+    background-size: 100% auto;
+}
+
+.toc-img {
+    background-image: url(../img/favicon.png);
+}
+
+.intro-img {
+    background-image: url(../img/favicon.png);
+}
+
+.mapping1-img {
+    background-image: url(../img/favicon.png);
+}
+
+.mapping2-img {
+    background-image: url(../img/favicon.png);
+}
+
+.mapping3-img {
+    background-image: url(../img/favicon.png);
+}
+
+.mapping4-img {
+    background-image: url(../img/favicon.png);
+}
