@@ -1,17 +1,11 @@
-# Geography 109:<br>Digital Mapping<br>Fall 2018<br>*#digimap*
-Lectures: TTH 9:30-10:20, Classroom Building 106
+# Geography 109-010:<br>Digital Mapping<br>Discovery Seminar<br>Fall 2020<br>*#digimap*
+TTH 11:00-12:15, Classroom Building 313 and via Zoom
 
 **Dr. Matthew W. Wilson**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
 *Twitter:* [@wilsonism](https://twitter.com/wilsonism)<br>
 *Office:* Patterson Office Tower (POT) 861<br>
-*Office Hours:* Th 10:30-11:30 in POT861 and Th 3:00-4:00 in PH108<br>
-
-*Teaching Assistants:*
-* **Joe Blankenship**, jrbl235@uky.edu, *Lead TA*: sec 3, F 9:00-9:50, CB313 (can provide additional lab support by appointment)
-* **Lindsey Funke**, lindsey.funke@uky.edu: sec 4, F 10:00-10:50, CB313; sec 6, M 9:00-9:50, CB313; sec 7, M 10:00-10:50, CB313
-* **Andrew Newton**, andrew.newton@uky.edu: sec 8, M 1:00-1:50, CB313; sec 9, M 2:00-2:50, CB313; sec 10, T 12:30-1:20, CB313
-* **John Swab**, john.j.swab@uky.edu: sec 1, Th 11:00-11:50, CB313; sec 2, Th 12:30-1:20, CB313; sec 5, F 1:00-1:50, CB313
+*Office Hours:* by appointment<br>
 
 ## I. Course Description
 
@@ -35,7 +29,7 @@ By the completion of this course, students shall be able to personally create ma
 
 ## IV. Format
 
-This course will be composed of lecture and discussion sessions. Lecture sessions will cover the majority of the conceptual and historical material, as well as demonstrate a range of creative applications. **Lecture is not duplicative of the texts.** In discussion sessions, students will meet in a computer lab to discuss the lecture material and practice the techniques, working on their map creations. Students will be expected to work constructively with their fellow classmates in developing a comprehensive understanding of the introductory techniques in digital mapping.
+This course will be composed of lecture and lab sessions. Lecture sessions will cover the majority of the conceptual and historical material, as well as demonstrate a range of creative applications. **Lecture is not duplicative of the texts.** In lab sessions, students may meet in a computer lab to discuss the lecture material and practice the techniques, working on their mapping projects. Students will be expected to work constructively with their fellow classmates in developing a comprehensive understanding of the introductory techniques in digital mapping. Lectures and lab sessions may also occur via Zoom.
 
 ## V. Required Texts
 
@@ -46,12 +40,12 @@ While there are no required books for this class, there will be assigned reading
 ### Assessment overview.
 
 Students will be assessed in this course using a variety of methods. Attendance and participation in class activities will greatly improve students’ abilities to master the lecture and laboratory material. Assessment is distributed in the following ways, for a total of 400 points:
-* Exam 1 (75 points)
-* Exam 2 (55 points)
-* Discussions and Exercises (60 points)
+* Exam 1 (50 points)
+* Exam 2 (50 points)
+* Discussions and Exercises (100 points)
 * [Mapping 1](mapping-1) (25 points)
-* [Mapping 2](mapping-2) (30 points)
-* [Mapping 3](mapping-3) (30 points)
+* [Mapping 2](mapping-2) (25 points)
+* [Mapping 3](mapping-3) (25 points)
 * [Mapping 4](mapping-4) (50 points)
 * [Final project](final-project/finalProject_2018FA_v7_mw.pdf) (75 points)
 
@@ -63,7 +57,7 @@ Two exams will be held at a mid-point of the semester and at the completion of t
 
 ### Discussions and exercises.
 
-Each of the scheduled lectures and discussion sections will require students to complete a short assignment before or during class. The exact format will vary from week to week. Each activity will be graded, and **no late reading responses or exercises will be accepted.**
+Each of the scheduled lectures and lab sessions will require students to complete a short assignment before or during class. The exact format will vary from week to week. Each activity will be graded, and **no late reading responses or exercises will be accepted.**
 
 ### Mapping projects.
 
@@ -71,7 +65,7 @@ Before beginning the final project, students will complete four mapping projects
 
 ### Final project.
 
-The final project is a collaborative project focused on the creative process of digital mapping. Students will need to identify one partner within their discussion section. **No groups of more than two individuals.** For the final project, students will be asked to demonstrate competencies in at least three skill areas: locating/transforming spatial data, designing/creating maps, and evaluating/critiquing the aesthetics of their creations. Student partners will evaluate group member contributions. A final project proposal will need to be submitted. During the final week of class, the group will prepare a presentation of the final project. The group will also be asked to submit a final report which documents the creative process and reflects on their map creations. See the course schedule below for final project deadlines.
+The final project focuses on the creative process of digital mapping. Students will be asked to demonstrate competencies in at least three skill areas: locating/transforming spatial data, designing/creating maps, and evaluating/critiquing the aesthetics of their creations. A final project proposal will need to be submitted. During the final week of class, the student will prepare a presentation of the final project. The student will also be asked to submit a final report which documents the creative process and reflects on their map creations. See the course schedule below for final project deadlines.
 
 ## VII. Important Notices
 
@@ -83,10 +77,9 @@ Review the course syllabus carefully, paying special attention to due dates and 
 
 There are many in-class activities that will require your attendance. Note:
 1. the majority of your grade depends on your preparation for, and engagement in, class discussions and group work;
-2. your success in completing the exercises, projects, and exams largely depends on how well you understand the material that we will cover in lecture and in discussion sections;
-3. attendance at discussion section may be taken, at the discretion of the TA;
-4. throughout the semester, the instructor may assign work to be completed and handed in during class or at our next meeting; you will be responsible for submitting these for credit even if you do not attend class; and
-5. in the event of an absence, you should consult the syllabus regarding what material or deadlines you may have missed.
+2. your success in completing the exercises, projects, and exams largely depends on how well you understand the material that we will cover in lecture and in lab sessions;
+3. throughout the semester, the instructor may assign work to be completed and handed in during class or at our next meeting; you will be responsible for submitting these for credit even if you do not attend class; and
+4. in the event of an absence, you should consult the syllabus regarding what material or deadlines you may have missed.
 
 Students need to notify the professor of absences prior to class in writing (or within one week after the absence). S.R. 5.2.4.2 defines the following as acceptable reasons for excused absences: (a) serious illness, (b) illness or death of family member, (c) University-related trips, (d) major religious holidays, and (e) other circumstances found to fit “reasonable cause for nonattendance” by the professor.
 
@@ -94,17 +87,33 @@ Students anticipating an absence for a major religious holiday are responsible f
 
 Students may be asked to verify their absences in order for them to be considered excused. Senate Rule 5.2.4.2 states that faculty have the right to request “appropriate verification” when students claim an excused absence because of illness or death in the family. Appropriate notification of absences due to university-related trips is required prior to the absence.
 
+### Wear a mask and maintain physical distance.
+
+In accordance with University guidelines, students must wear UK-approved face coverings in the classroom and academic buildings (e.g., faculty offices, laboratories, libraries, performance/design studios, and common study areas where students might congregate). If UK-approved face coverings are not worn over the nose and mouth, students will be asked to leave the classroom.
+
+Students should complete their daily online wellness screening before accessing university facilities and arriving to class. Students should not move chairs or barriers in classrooms and should socially distance at all times, leaving a six (6) foot radius from other people. Masks and hand sanitizer can be found at entrances to this building if needed. Students should leave enough space when entering and exiting a room. Students should not crowd doorways at the beginning or end of class.
+
+The instructor may choose to remove a mask when pedagogically necessary at the front of the classroom and behind a clear barrier. The instructor's mask will be replaced when it is no longer necessary to have it removed, or when the class meeting is complete.
+
 ### Be in contact.
 
-You are responsible for checking your UKY email account; the class listserv is what will be used to send communications outside class. Email is the best way to contact the instructor (place ‘GEO109’ in the subject heading). Please allow at least 24 hours for a response by email during weekdays. The instructor will not necessarily respond to emails over the weekends.
+You are responsible for checking your UKY email account; Canvas is what will be used to send communications outside class. Email is the best way to contact the instructor (place ‘GEO109’ in the subject heading). Please allow at least 24 hours for a response by email during weekdays. The instructor will not necessarily respond to emails over the weekends.
 
 ### Be a resource for others.
 
 Students are strongly encouraged to exchange contact information with classmates, in order to retrieve notes and information that you may have missed.
 
-### Ask before recording.
+### Get permission before recording.
 
-Video and audio recordings are not permitted during our class meetings unless the student has received prior permission from the instructors. If permission is granted, recording of other students is prohibited. Any distribution of recordings is also probhibited. Students with specific recording accommodations approved by the Disability Resource Center should present their official documentation to the instructor. All content for this course, including handouts, assignments, and lectures are the intellectual property of the instructors and cannot be reproduced, sold, or used for any purpose other than educational work in this class without prior permission from the instructor.
+Meetings of this course may be recorded. All video and audio recordings of lecturers and class meetings, provided by the instructors, are for educational use by students in this class only. They are available only through the Canvas shell for this course and are not to be copied, shared, or redistributed.
+
+The University of Kentucky Student Code of Conduct defines Invasion of Privacy as using electronic or other devices to make a photographic, audio, or video record of any person without their prior knowledge or consent when such a recording is likely to cause injury or distress. As addressed in the Student Code of Conduct, students are expected to follow appropriate university policies and maintain the security of linkblue accounts used to access recorded class materials. Recordings may not be reproduced, shared with those not enrolled in the class, or uploaded to other online environments.
+
+If the instructor or a University of Kentucky office plans any other uses for the recordings, beyond this class, students identifiable in the recordings will be notified to request consent prior to such use. In anticipation of such cases, students may be asked to complete an “authorization of use” form by a faculty member.
+
+Video and audio recordings by students are not permitted during the class unless the student has received prior permission from the instructor. Any sharing, distribution, and or uploading of these recordings outside of the parameters of the class is prohibited. Students with specific recording accommodations approved by the Disability Resource Center should present their official documentation to the instructor.
+
+All content for this course, including handouts, assignments, and lectures are the intellectual property of the instructors and cannot be reproduced or sold without prior permission from the instructors. A student may use the material for reasonable educational and professional purposes extending beyond this class, such as studying for a comprehensive or qualifying examination in a degree program, preparing for a professional or certification examination, or to assist in fulfilling responsibilities at a job or internship.
 
 ### Get help.
 
@@ -150,9 +159,9 @@ If you have a documented disability that requires academic accommodations, pleas
 
 *Subject to change.*
 
-| Week     | Discussion Sections                             | Lectures      |
+| Week     | Lecture        | Lab      |
 | :------- | :----:                                          | :-----        |
-| 1:<br>Aug. 23 | **Discussion Sections <br>Will Not Meet This Week** | Tuesday: First class meeting is Thursday. <br><br>Thursday: <br>1. introduction to course problematic<br>2. maps and mappings<br> 3. overview of M1-M4 <br><br>*L1* |
+| 1:<br>Aug. 18, 20 | 1. introduction to course problematic<br>2. maps and mappings<br> 3. overview of M1-M4 <br><br>*L1* | 1. Lab introduction<br>2. M1 introduction |
 | 2:<br>Aug. 28, <br>Aug. 30 | 1. Lab introduction<br>2. M1 introduction | 1. the aesthetics of cartography<br>2. overview of thematic mapping and data types <br>3. *Activity:* Collaborative mapping <br><br>*L2* |
 | 3:<br>Sept. 4, <br>Sept. 6 | MONDAY discussion sections <br>will not meet due to Labor Day.<br><br>**Complete M1**<br>Due end of Friday | Read Harley 1987.<br><br>1. mapping the everyday<br>2. critical mapping practices <br>3. *Activity:* Map as biography <br><br>*L3* |
 | 4:<br>Sept. 11, <br>Sept. 13 | **Complete M2**<br>Due end of Friday | 1. the relationship between cartography and GIS<br>2. map audience and format<br>3. Viewing the map and map experiences<br>4. *Activity:* Art Museum (on your own) <br><br>*L4* |
@@ -176,8 +185,6 @@ If you have a documented disability that requires academic accommodations, pleas
 Bertin, Jacques. 1983. *Semiology of Graphics: Diagrams, Networks, Maps* (WJ Berg, Trans.). Madison, WI: The University of Wisconsin Press, Ltd.
 
 Imhof, Eduard. 2007. *Cartographic relief presentation.* ESRI, Inc.
-
-Krygier, John, and Denis Wood. 2016. *Making maps: a visual guide to map design for GIS.* 3rd ed. New York: Guilford Press.
 
 Robinson, Arthur Howard. 1952. *The look of maps: an examination of cartographic design.* University of Wisconsin Press.
 
