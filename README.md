@@ -5,8 +5,6 @@ University of Kentucky
 
 [Syllabus](syllabus.md)
 
-[GIS Lab Schedule](fall_2018_lab_sched.pdf)
-
 [Mapping 1](mapping-1)
 
 [Mapping 2](mapping-2)
