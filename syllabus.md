@@ -176,7 +176,7 @@ If you have a documented disability that requires academic accommodations, pleas
 | 13:<br>Nov. 10, <br>Nov. 12 | 1. participatory mapping<br>2. VGI and neogeo<br>3. qualitative GIS <br><br>*L11*<br><br>Work on Final Project |
 | 14:<br>Nov. 17, <br>Nov. 19 | Final Project Review<br><br>**FP Report DUE**<br>end of Friday |
 | 15:<br>Nov. 24, <br>Nov. 26 | **FP Presentations DUE**<br>end of Wednesday<br><br>THANKSGIVING BREAK |
-| 16:<br>Dec. 1, <br>Dec. 3 |  | Tuesday: Review Weeks 10-15<br><br>Thursday: <br>**EXAM 2** |
+| 16:<br>Dec. 1, <br>Dec. 3 | Tuesday: Review Weeks 10-13<br><br>Thursday: <br>**EXAM 2** |
 
 ## IX. Resource References
 
