@@ -159,26 +159,24 @@ If you have a documented disability that requires academic accommodations, pleas
 
 *Subject to change.*
 
-| Week     | Lecture        | Lab      |
-| :------- | :----:                                          | :-----        |
-| 1:<br>Aug. 18, 20 | 1. introduction to course problematic<br>2. maps and mappings<br> 3. overview of M1-M4 <br><br>*L1* | 1. Lab introduction<br>2. M1 introduction |
-| 2:<br>Aug. 28, <br>Aug. 30 | 1. Lab introduction<br>2. M1 introduction | 1. the aesthetics of cartography<br>2. overview of thematic mapping and data types <br>3. *Activity:* Collaborative mapping <br><br>*L2* |
-| 3:<br>Sept. 4, <br>Sept. 6 | MONDAY discussion sections <br>will not meet due to Labor Day.<br><br>**Complete M1**<br>Due end of Friday | Read Harley 1987.<br><br>1. mapping the everyday<br>2. critical mapping practices <br>3. *Activity:* Map as biography <br><br>*L3* |
-| 4:<br>Sept. 11, <br>Sept. 13 | **Complete M2**<br>Due end of Friday | 1. the relationship between cartography and GIS<br>2. map audience and format<br>3. Viewing the map and map experiences<br>4. *Activity:* Art Museum (on your own) <br><br>*L4* |
-| 5:<br>Sept. 18, <br>Sept. 20 | **Complete M3**<br>Due end of Friday | 1. acquiring data and transforming data<br>2. mapmaking tools<br>3. mashups and spatial media<br>4. *Activity:* US Census Data <br><br>*L5* |
-| 6:<br>Sept. 25, <br>Sept. 27 | M4 introduction | 1. the neutrality of maps<br>2. map projection and design <br><br>*L6* |
-| 7:<br>Oct. 2, <br>Oct. 4 | Work on M4 | 1. generalization, classification, and symbolization<br>2. the selective interests of the map(maker)<br>3. *Activity:* Truthiness in mapmaking <br><br>*L7* |
-| 8:<br>Oct. 9, <br>Oct. 11 | **M4 Due**<br>end of Friday | 1. the geoweb<br>2. *Activity:* Mapping careers <br><br>*L8* |
-| 9:<br>Oct. 16, <br>Oct. 18 | Final Project Preparations | Tuesday: Review Weeks 1-8 <br><br>Thursday: <br>**EXAM 1** |
-| 10:<br>Oct. 23, <br>Oct. 25 | *Activity:* Map Collection | 1. after critical GIS and cartography<br>2. new mapping industries<br>3. discuss final project proposal<br>4. *Activity:* Mapping crowds <br><br>*L9* |
-| 11:<br>Oct. 30, <br>Nov. 1 | **FP Proposal Due**<br>end of Friday | 1. mapping as art and creative force<br>2. non-representational mapping<br>3. maps as objects of consumption<br>4. *Activity:* Psychogeographic maps <br><br>*L10* |
-| 12:<br>Nov. 6, <br>Nov. 8 | Collect Data for Final Project | LECTURE WILL NOT MEET: **VOTE** |
-| 13:<br>Nov. 13, <br>Nov. 15 | Work on Final Project | 1. participatory mapping<br>2. VGI and neogeo<br>3. qualitative GIS <br><br>*L11* |
-| 14:<br>Nov. 20, <br>Nov. 22 | Final Project Review | Tuesday: Final Project Review <br><br>Thursday: THANKSGIVING BREAK |
-| 15:<br>Nov. 27, <br>Nov. 29 | **FP Report DUE**<br>end of Friday | Tuesday: <br>1. web programming and scripting for maps<br>2. *Activity:* Hello World <br><br>*L12* <br><br>Thursday: LECTURE WILL NOT MEET: Reading Period |
-| 16:<br>Dec. 4, <br>Dec. 6 | **FP Presentations DUE**<br>end of Friday | Tuesday: LECTURE WILL NOT MEET: Reading Period <br><br>Thursday: Review Weeks 10-15 |
-
-**Exam 2: Tuesday, December 11th, 10:30am on Canvas**
+| Week     | Lecture and Lab           |
+| :------- | :-----     |
+| 1:<br>Aug. 18, <br> Aug. 20 | 1. introduction to course<br>2. maps and mappings<br>3. overview of M1-M4 <br><br>*L1*<br><br>1. Lab introduction<br>2. M1 introduction |
+| 2:<br>Aug. 25, <br>Aug. 27 | 1. the aesthetics of cartography<br>2. overview of thematic mapping and data types <br>3. *Activity:* Collaborative mapping<br><br>*L2*<br><br>Work on M1 |
+| 3:<br>Sept. 1, <br>Sept. 3 | Read Harley 1987.<br><br>1. mapping the everyday<br>2. critical mapping practices <br>3. *Activity:* Map as biography <br><br>*L3*<br><br>**Complete M1**<br>Due end of Friday |
+| 4:<br>Sept. 8, <br>Sept. 10 | 1. the relationship between cartography and GIS<br>2. map audience and format<br>3. Viewing the map and map experiences<br>4. *Activity:* Art Museum<br><br>*L4*<br>br>**Complete M2**<br>Due end of Friday |
+| 5:<br>Sept. 15, <br>Sept. 17 | 1. acquiring data and transforming data<br>2. mapmaking tools<br>3. mashups and spatial media<br>4. *Activity:* US Census Data <br><br>*L5*<br><br>**Complete M3**<br>Due end of Friday |
+| 6:<br>Sept. 22, <br>Sept. 24 | 1. the neutrality of maps<br>2. map projection and design <br><br>*L6*<br><br>M4 introduction |
+| 7:<br>Sept. 29, <br>Oct. 1 | 1. generalization, classification, and symbolization<br>2. the selective interests of the map(maker)<br>3. *Activity:* Truthiness in mapmaking <br><br>*L7*<br><br>Work on M4 |
+| 8:<br>Oct. 6, <br>Oct. 8 | 1. the geoweb<br>2. *Activity:* Mapping careers <br><br>*L8*<br><br>**M4 Due**<br>end of Friday |
+| 9:<br>Oct. 13, <br>Oct. 15 | Tuesday: Review Weeks 1-8<br><br>Thursday: <br>**EXAM 1** |
+| 10:<br>Oct. 20, <br>Oct. 22 | 1. after critical GIS and cartography<br>2. new mapping industries<br>3. discuss final project proposal<br>4. *Activity:* Mapping crowds <br><br>*L9*<br><br>*Activity:* Map Collection |
+| 11:<br>Oct. 27, <br>Oct. 29 | 1. mapping as art and creative force<br>2. non-representational mapping<br>3. maps as objects of consumption<br>4. *Activity:* Psychogeographic maps <br><br>*L10*<br><br>**FP Proposal Due**<br>end of Friday |
+| 12:<br>Nov. 3, <br>Nov. 5 | Tuesday: NO LECTURE, **VOTE**<br><br>Thursday: Collect Data for Final Project |
+| 13:<br>Nov. 10, <br>Nov. 12 | 1. participatory mapping<br>2. VGI and neogeo<br>3. qualitative GIS <br><br>*L11*<br><br>Work on Final Project |
+| 14:<br>Nov. 17, <br>Nov. 19 | Final Project Review<br><br>**FP Report DUE**<br>end of Friday |
+| 15:<br>Nov. 24, <br>Nov. 26 | **FP Presentations DUE**<br>end of Wednesday<br><br>THANKSGIVING BREAK |
+| 16:<br>Dec. 1, <br>Dec. 3 |  | Tuesday: Review Weeks 10-15<br><br>Thursday: <br>**EXAM 2** |
 
 ## IX. Resource References
 
