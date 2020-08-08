@@ -3,7 +3,7 @@
 University of Kentucky
 <br>Matthew W. Wilson
 
-In this exercise, the class will produce a Google Map of hundreds of geotagged photos documenting celebrity sightings in Lexington. Your job is to:
+In this exercise, the class will produce a Google Map of geotagged photos documenting celebrity sightings in Lexington. Your job is to:
 
 1) photograph a chosen celebrity at three locations in Lexington, and
 2) add those photos, along with some descriptive text, to a class-wide collaborative map using Google MyMaps.
@@ -20,7 +20,7 @@ The assignment is worth 25 points, based on a Word document (or PDF) you will up
 
 Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment. **Note:** Late submissions will be penalized, as discussed in the syllabus.
 
-**Note:** This assignment requires a digital camera or a camera phone. You are encouraged to borrow from friends and classmates, but if access to this technology is difficult, please inform your TA.
+**Note:** This assignment requires a digital camera or a camera phone. If access to this technology is difficult, please inform the instructor.
 
 ## Instructions.
 
@@ -33,7 +33,7 @@ by right-clicking the file, and selecting ‘rename.’ Use the following naming
 
 4. Create/sign into a [Google account](https://myaccount.google.com/). You can use your **_g.uky.edu_** email. If you encounter issues with your **_g.uky.edu_** email for this assignment, sign into a non-UKY Google account. **Note:** If you object to creating a non-UKY Google account, please inform your TA.
 
-5. Navigate to the Google MyMaps for our class, [here](https://drive.google.com/open?id=1yE3DQCQvpT6YlbqdeQX6xj0jo7tmA_Wu&usp=sharing). **Note:** In order to edit this map you must be logged into your non-UKY Google account.
+5. Navigate to the Google MyMaps for our class, [here](https://www.google.com/maps/d/edit?mid=14EC0UHY_jC-UNqyf4NByTdCm4VJ4OVcz&usp=sharing). **Note:** In order to edit this map you must be logged into your non-UKY Google account.
 
 6. Add a new marker at the location of your first photo using the marker tool.<br>![Google MyMaps Marker](assets/images/googlemymaps-add-marker.png)
 
