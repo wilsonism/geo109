@@ -12,13 +12,13 @@ In this exercise, you will bring in, and edit the design of, a map of the common
 
 ## Grading
 
-The assignment is worth 30 points, based on a Word document (or PDF) you will upload to Canvas containing:
+The assignment is worth 25 points, based on a Word document (or PDF) you will upload to Canvas containing:
 1. Three screenshots: the unstyled Kentucky layer, the 'not well designed map', and your much-improved 'well designed' map. Paste these three images into your Word document (15 points).
-2. Responses to the three questions in the assignment (15 points).
+2. Responses to the three questions in the assignment (10 points).
 
 **Due:** Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment. **Note:** Late submissions will be penalized, as discussed in the syllabus.
 
-**Note:** This assignment assumes that you are using ArcGIS ArcMap in the teaching lab (CB313). We recommend completing the lab in one sitting.
+**Note:** This assignment assumes that you are using ArcGIS ArcMap in the teaching lab (CB313). We recommend completing the lab in one sitting. If you are unable to be in the teaching lab, please let the instructor know.
 
 ## Instructions
 
