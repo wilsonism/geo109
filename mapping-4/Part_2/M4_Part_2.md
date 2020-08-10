@@ -8,23 +8,19 @@ ___
 
 This exercise involves a mapping process commonly used by professional cartographers. As such, you’ll use data in new ways—be patient! By engaging more deeply with data, you’ll start to understand the moving parts of making digital maps that are often hidden from their users.
 
-In particular, this assignment will introduce data preparation in Microsoft Excel and visualization in QGIS, a free and open-source software (FOSS). The 3-part assignment will be completed over the three recitation sections. In Week 5, you imported county geometry. In Week 6, you will download tabular data from FactFinder2 and use Excel to clean the data. In Week 7, you will join the tabular data to the county geometry and produce choropleth maps similar to those produced by Social Explorer in Mapping 3. Take these timelines seriously, otherwise you’ll have trouble completing the assignment. 
+In particular, this assignment will introduce data preparation in Microsoft Excel and visualization in QGIS, a free and open-source software (FOSS). The 3-part assignment will be completed over the three labs. In Week 6, you imported county geometry. In Week 7, you will download tabular data from FactFinder2 and use Excel to clean the data. In Week 8, you will join the tabular data to the county geometry and produce choropleth maps similar to those produced by Social Explorer in Mapping 3. Take these timelines seriously, otherwise you’ll have trouble completing the assignment. 
 
-### This assignment will take three recitation sections to complete; therefore it is crucial that you attend each recitation and arrive on time.
+### This assignment will take three labs to complete; therefore it is crucial that you attend each lab and arrive on time.
 
 **Due:** Consult the [syllabus schedule](../../syllabus.md#viii-schedule) for the due date of this assignment.
 
-**Note:** You must come to recitation week 5 with QGIS installed.
-
-  * Part 1 questions must be answered and shown on your screen at the beginning of section Week 6
-  * Part 2 must be completed and shown on your screen at the beginning of section Week 7
-  * You will receive points in section for having these parts done. 
+**Note:** You must come to lab week 6 with QGIS installed.
 
 Be conscious of saving and storing your data, either on a thumbdrive, space you know is secure on the UK drive, on cloud storage, or your laptop. It is your responsibility to save your data securely.
 
 ### Grading and Deliverables 
 
-The assignment is worth 50 points. Grading will be based on a Word document that you will upload to Canvas during Week 8. This document should include:
+The assignment is worth 50 points. Grading will be based on a Word document that you will upload to Canvas. This document should include:
 
 1.  Your two exported maps (20 points),
 2.  Your responses to the questions in each part (30 points)
