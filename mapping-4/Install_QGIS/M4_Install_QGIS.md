@@ -25,7 +25,7 @@ The assignment is worth 50 points. Grading will be based on a Word document/PDF 
 
 Be conscious of saving and storing your data, either on a thumbdrive, space you know is secure on the UK drive, on cloud storage, or your laptop. It is your responsibility to save your data securely.
 
-### Before you begin (do this before week 5): Install QGIS
+### Before you begin (do this before week 6): Install QGIS
 
 ## If using Microsoft Windows…
 
@@ -68,10 +68,6 @@ If using Windows 7 or XP, visit http://windows.microsoft.com/en-us/windows/32-bi
     * Install QGIS Last
 
   **Note:** Watch [this video](https://youtu.be/g8T6eWwWA-8?t=3m16s) starting at time 3:16 to see an installation of QGIS 2.18 for Mac.
-
-## If using Linux…
-
-1. Contact your TA. If the installation instructions from QGIS are not clear, your TA will provide you additional guidance on how to install QGIS for your particular flavor of Linux.
 
 ___
 
