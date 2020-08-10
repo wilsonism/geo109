@@ -15,10 +15,6 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 
 **Due:** Consult the [syllabus schedule](../../syllabus.md#viii-schedule) for the due date of this assignment.
 
-Part 2 must be completed and shown on your screen at the beginning of section Week 7
-
-You will receive points in section for having these parts done.
-
 ## Part 3: Perform a Join and Make a Choropleth Map
 
 1. Open QGIS and add the Kentucky counties shapefile. Consult Part 1 if you get stuck.
