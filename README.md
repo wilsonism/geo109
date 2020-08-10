@@ -13,4 +13,4 @@ University of Kentucky
 
 [Mapping 4](mapping-4)
 
-[finalproject](final-project/finalProject_2020FA_v8_mw.pdf)
+[Final Project](finalproject/finalProject_2020FA_v8_mw.pdf)
