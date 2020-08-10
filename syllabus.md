@@ -40,8 +40,8 @@ While there are no required books for this class, there will be assigned reading
 ### Assessment overview.
 
 Students will be assessed in this course using a variety of methods. Attendance and participation in class activities will greatly improve students’ abilities to master the lecture and laboratory material. Assessment is distributed in the following ways, for a total of 400 points:
-* Exam 1 (50 points)
-* Exam 2 (50 points)
+* Exam 1 (45 points)
+* Exam 2 (55 points)
 * Discussions and Exercises (100 points)
 * [Mapping 1](mapping-1) (25 points)
 * [Mapping 2](mapping-2) (25 points)
