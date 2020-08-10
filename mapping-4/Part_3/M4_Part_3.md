@@ -8,7 +8,7 @@ ___
 
 ### Grading and Deliverables 
 
-The assignment is worth 50 points. Grading will be based on a Word document that you will upload to Canvas during Week 08. This document should include:
+The assignment is worth 50 points. Grading will be based on a Word document that you will upload to Canvas. This document should include:
 
   1. Your two exported maps (20 points),
   2. Your responses to the questions in each part (30 points)
