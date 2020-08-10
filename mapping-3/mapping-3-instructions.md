@@ -9,9 +9,9 @@ In this exercise, you will produce a series of choropleth maps using Social Expl
 
 ## Grading.
 
-The assignment is worth 30 points, based on a Word document (or PDF) you will upload to Canvas containing:
-1. Three maps: two side-by-side comparison maps and one single pane—exported from Social Explorer. **These must be exports and not screenshots** (15 points).
-2. Responses to the three questions at the conclusion of the assignment (15 points).
+The assignment is worth 25 points, based on a Word document (or PDF) you will upload to Canvas containing:
+1. Three maps: two side-by-side comparison maps and one single pane—exported from Social Explorer. **These should be exports and not screenshots** (15 points).
+2. Responses to the three questions at the conclusion of the assignment (10 points).
 
 Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date of this assignment. **Note:** Late submissions will be penalized, as discussed in the syllabus.
 
