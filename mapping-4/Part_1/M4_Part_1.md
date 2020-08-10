@@ -8,21 +8,19 @@ ___
 
 This exercise involves a mapping process commonly used by professional cartographers. As such, you’ll use data in new ways—be patient! By engaging more deeply with data, you’ll start to understand the moving parts of making digital maps that are often hidden from their users.
 
-In particular, this assignment will introduce data preparation in Microsoft Excel and visualization in QGIS, a free and open-source software (FOSS). The 3-part assignment will be completed over the three recitation sections. **Before section** week 5, download QGIS to your computer. In section, you will import county geometry. Second, during week 6, you will download tabular data from FactFinder2 and use Excel to clean the data.
+In particular, this assignment will introduce data preparation in Microsoft Excel and visualization in QGIS, a free and open-source software (FOSS). The 3-part assignment will be completed over the three recitation sections. **Before** week 6, download QGIS to your computer. In lab, you will import county geometry. Second, during week 7, you will download tabular data from the US Census and use Excel to clean the data.
 
-### This assignment will take three recitation sections to complete; therefore it is crucial that you attend each recitation and arrive on time.
+### This assignment will take three labs to complete; therefore it is crucial that you attend each lab and arrive on time.
 
 **Due:** Consult the [syllabus schedule](../../syllabus.md#viii-schedule) for the due date of this assignment.
 
-**Note:** You must come to recitation week 5 with QGIS installed.
+**Note:** You must come to lab week 6 with QGIS installed.
 
-Part 1 questions must be answered and shown on your screen at the beginning of section Week 6.
-
-You will receive points in section for having these parts done. Be conscious of saving and storing your data, either on a thumbdrive, space you know is secure on the UK drive, on cloud storage, or your laptop. It is your responsibility to save your data securely.
+Be conscious of saving and storing your data, either on a thumbdrive, space you know is secure on the UK drive, on cloud storage, or your laptop. It is your responsibility to save your data securely.
 
 ### Grading and Deliverables 
 
-The assignment is worth 50 points. Grading will be based on a Word document that you will upload to Canvas during Week 8. This document should include:
+The assignment is worth 50 points. Grading will be based on a Word document that you will upload to Canvas. This document should include:
 
 1. Your two exported maps (20 points),
 2. Your responses to the questions in each part (30 points)
@@ -75,7 +73,7 @@ Respond to each of the following questions. Make sure you provide evidence for y
 
 2. How much of Bourbon County is under water? Use the attribute table to find **this percentage**. Hint: ALAND10 and AWATER10 will be helpful here. If you are not sure what these variable names mean, try a Google search. Note that these attributes are given in units of square meters.
 
-**_You will continue with Part 2 of the lab in Week 6._**
+**_You will continue with Part 2._**
 
 ___
 
