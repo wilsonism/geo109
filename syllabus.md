@@ -123,6 +123,7 @@ This course is based on a progression of lectures and mapping assignments. If yo
 * Map Collections, Science Library in King Library 410C, http://libguides.uky.edu/maps
 * Stress Management Workshops in Frazee Hall, http://www.uky.edu/StudentAffairs/Counseling/
 * On reading an academic journal article, http://www.brockport.edu/sociology/journal.html
+* Assistance with technology, https://learnanywhere.uky.edu/tech-help
 
 Resources exist across campus to assist students with academic success, wellness, finances, and belonging. Learn more at https://www.uky.edu/basicneeds/home.
 
