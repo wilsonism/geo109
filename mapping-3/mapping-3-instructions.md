@@ -21,25 +21,23 @@ Consult the [syllabus schedule](../syllabus.md#viii-schedule) for the due date o
 
 1. To begin, you will need to create a Social Explorer account and log in. Access Social Explorer through the library (**available at [this link](http://ezproxy.uky.edu/login?url=https://www.socialexplorer.com/)**). Once you're logged in, double check that the University of Kentucky is noted as the license provider in the top right corner of the Social Explorer website.<br>![Social Explorer at UK](assets/images/socialexp_signin.png)
 
-2. Once you have logged in, click on the Maps tab near the top of the screen. Then click the red **Start Now** button for the _U.S. Demography_ map to begin mapping.<br>![Start Social Explorer](assets/images/socialexp_start.png)<br>Social Explorer will then prompt you to either Take a Tour of its interface or Skip it and immediately start mapping. Feel free to take the tour, but the magic starts when you start mapping.
+2. Once you have logged in, click on the "Create new..." button below "My projects". Then click the **Map** option from the dropdown. You'll then give the map a title, "Mapping 3", and then select the "United States" option.<br>![Start Social Explorer](assets/images/socialexp_start.png)<br>Social Explorer will then prompt you to either Take a Tour of its interface or Skip it and immediately start mapping. Feel free to take the tour, but the magic starts when you start mapping.
 
-3. We will now spend some time exploring the interface. Click the **Show Data By** button to open a drop-down menu where you choose between several data geometries. Turn off the _Automatic_ selection option and select **_Census Tract_**.<br>![Show Data By](assets/images/socialexp_showdataby.png)
+3. We will now spend some time exploring the interface. Click the **By State** button to open a drop-down menu where you choose between several data geometries. Select **_Census Tract_**.<br>![Show Data By](assets/images/socialexp_showdataby.png)
 
-4. Click the **color scale** in the top right hand corner and select **Colors** at the bottom of the drop-down menu. Note the difference between Diverging and Sequential color modes here. Explore how these color scale options might affect the story told by your map.<br>![Color Scale](assets/images/socialexp_colorscale.png)
+4. Click the **pencil icon** in the key at the bottom left corner to edit this visualization select the color ramp to open a menu of color ramp choices. Scroll down and note the differences between Diverging and Sequential color modes here. Explore how these color scale options might affect the story told by your map.<br>![Color Scale](assets/images/socialexp_colorscale.png)
 
-5. Click the **color scale** in the top right hand corner again. Instead of clicking Colors, select **Cutpoints**. From here you can change the data classification model. **Note:** Here, you can change both the *method* of data classification and the *number of classes* into which the data is divided. Explore how these options affect the symbology.<br>![Cutpoints](assets/images/socialexp_cutpoints.png)
+5. Click on the map to close the visualization menu and then click on the pencil icon again. Instead of clicking on the Color palette, select **Cutpoints**. From here you can change the data classification model. **Note:** Here, you can change both the *method* of data classification and the *number of classes* into which the data is divided. Explore how these options affect the symbology.<br>![Cutpoints](assets/images/socialexp_cutpoints.png)
 
-6. **Change the Map Layout** by pressing the gray button at the bottom of the screen in the middle. **Note:** You can create Side-by-Side and Swipe maps for easy comparison. Since we will be comparing similar maps in this assignment, we will use the **_Side-by-Side_** layout.<br>![Map Layout](assets/images/socialexp_maplayout.png)
+6. **Change the Map View** by pressing the button at the right of the screen. **Note:** You can create Side-by-Side and Swipe maps for easy comparison. Since we will be comparing similar maps in this assignment, we will use the **_Side-by-Side_** layout.<br>![Map Layout](assets/images/socialexp_maplayout.png)
 
-7. **Click the Export button** at the top of the screen. Note that you can download your maps as images (.png) or as zip files at a resolution of your choosing. **Export your maps as PNG images.**
+7. **Click the Export as Image button** at the top of the screen. Note that you can download your maps as images (.png) or as zip files at a resolution of your choosing, under the Format menu. **Export your maps as PNG images.**
 
-8. **Change the Map Layout** back to **_Single_**. Click the **Change Data** tab in the top left hand corner. **Note:** The variety of data Social Explorer makes available for each year. Think about who produced this data and how it was produced: what kind of limits might the 'official' nature of this data place on the stories told by Social Explorer maps?
+8. **Change the Map Layout** back to **_Single_**. Click the **Change Data** tab in the top left hand corner. **Note:** The variety of data Social Explorer makes available for each year. Think about who produced this data and how it was produced.
 
 9. Select Change Data, set Survey Year to **_2010_**, and select **_Family Structure_**.<br>![Change Data](assets/images/socialexp_changedata.png)
 
-10. Scroll past the ACS Estimates to data from the most recent decennial census: **_Census 2010_**. **Keep scrolling**, and you will get to Census 2010. Under Census 2010, select **Female householder, no husband present** from the **Households By Presence Of People Under 18 Years By Household Type** category. Maps made with this data will depict the distribution of households led by single mothers organized geographically by census tract.<br>![Change Data](assets/images/socialexp_changedata-census2010.gif)<br>Make sure to do this to both sides of map layout.
-
-11. Make sure that **_Show Data By is set to Census Tract_** (the automatic geography selection must be turned off). **Hover over your color scale** to isolate different percentage ranges of households at the census tract level.
+10. Scroll past the ACS Estimates to data from the most recent decennial census: **_Census 2010_**. **Keep scrolling**, and you will get to Census 2010. Under Census 2010, select **Female householder, no husband present** from the **Households By Presence Of People Under 18 Years By Household Type** category. Maps made with this data will depict the distribution of households led by single mothers organized geographically by census tract.
 
 ## Deliverables.
 
@@ -49,7 +47,7 @@ In what follows, you will be producing different maps that tell very different s
 
 ### Map 1: Sequential vs. Diverging Color Schemes
 
-1. Select Side-by-Side from the Change Map Layout icon. On one of the maps, select any Sequential color scheme (EXCEPT for Full Spectar). On the second, select any Diverging color scheme.
+1. Select Side-by-Side from the Change Map View icon. On one of the maps, select any Sequential color scheme (EXCEPT for Full Spectar). On the second, select any Diverging color scheme.
 
 2. Export (download) your maps as image files (.png) and place them in your Word document. Label the maps with their respective color schemes.
 
