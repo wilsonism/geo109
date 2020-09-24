@@ -27,7 +27,7 @@ The assignment is worth 50 points. Grading will be based on a Word document that
 
 ## Part 1. Importing Geospatial Data
 
-1. Now that you’ve successfully installed QGIS, it’s time to download some geospatial data. Navigate to http://census.gov/cgi-bin/geo/shapefiles2010/main. Under **_Select a layer type_** choose **_Counties (and equivalent)_** and click submit.
+1. Now that you’ve successfully installed QGIS, it’s time to download some geospatial data. Navigate to [http://census.gov/cgi-bin/geo/shapefiles2010/main](http://census.gov/cgi-bin/geo/shapefiles2010/main). Under **_Select a layer type_** choose **_Counties (and equivalent)_** and click submit.
 
 ![Image11](images/Image11.jpeg)
 
