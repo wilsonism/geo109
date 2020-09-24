@@ -10,8 +10,7 @@ University of Kentucky
 In this fourth mapping assignment, you will explore a workflow that many professional cartographers and GIScientists utilize. This is a rehearsal for the final project. You will use the following technologies and data sources:
 
   * [QGIS](https://en.wikipedia.org/wiki/QGIS)
-  * [US Census Bureau](https://census.gov/)
-  * [American FactFinder](https://factfinder.census.gov/)
+  * [US Census Bureau](https://data.census.gov/)
 
 Follow the instructions below: 
 
