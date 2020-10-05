@@ -171,9 +171,9 @@ If you have a documented disability that requires academic accommodations, pleas
 | 5:<br>Sept. 15, <br>Sept. 17 | 1. acquiring data and transforming data<br>2. mapmaking tools<br>3. mashups and spatial media<br>4. *Activity:* US Census Data <br><br>*L5*<br><br>**Complete M3**<br>Due end of Friday |
 | 6:<br>Sept. 22, <br>Sept. 24 | 1. the neutrality of maps<br>2. map projection and design <br><br>*L6*<br><br>M4 introduction |
 | 7:<br>Sept. 29, <br>Oct. 1 | 1. generalization, classification, and symbolization<br>2. the selective interests of the map(maker)<br>3. *Activity:* Truthiness in mapmaking <br><br>*L7*<br><br>Work on M4 |
-| 8:<br>Oct. 6, <br>Oct. 8 | 1. the geoweb<br>2. *Activity:* Mapping careers <br><br>*L8*<br><br>**M4 Due**<br>end of Friday |
+| 8:<br>Oct. 6, <br>Oct. 8 | 1. the geoweb<br>2. *Activity:* Mapping careers <br><br>*L8*<br><br>Work on M4 |
 | 9:<br>Oct. 13, <br>Oct. 15 | Tuesday: Review Weeks 1-8<br><br>Thursday: <br>**EXAM 1** |
-| 10:<br>Oct. 20, <br>Oct. 22 | 1. after critical GIS and cartography<br>2. new mapping industries<br>3. discuss final project proposal<br>4. *Activity:* Mapping crowds <br><br>*L9*<br><br>*Activity:* Map Collection |
+| 10:<br>Oct. 20, <br>Oct. 22 | 1. after critical GIS and cartography<br>2. new mapping industries<br>3. discuss final project proposal<br>4. *Activity:* Mapping crowds <br><br>*L9*<br><br>*Activity:* Map Collection<br><br>**M4 Due**<br>end of Friday |
 | 11:<br>Oct. 27, <br>Oct. 29 | 1. mapping as art and creative force<br>2. non-representational mapping<br>3. maps as objects of consumption<br>4. *Activity:* Psychogeographic maps <br><br>*L10*<br><br>**FP Proposal Due**<br>end of Friday |
 | 12:<br>Nov. 3, <br>Nov. 5 | Tuesday: NO LECTURE, **VOTE**<br><br>Thursday: Collect Data for Final Project |
 | 13:<br>Nov. 10, <br>Nov. 12 | 1. participatory mapping<br>2. VGI and neogeo<br>3. qualitative GIS <br><br>*L11*<br><br>Work on Final Project |
